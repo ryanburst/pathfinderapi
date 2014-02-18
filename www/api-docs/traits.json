@@ -1,0 +1,101 @@
+{
+    "basePath":"http://pathfinder.rburst.ny.dev.mcdpartners.com/api/v1",
+    "swaggerVersion":"1.2",
+    "apiVersion":"0.1",
+    "resourcePath":"/traits",
+    "apis":[
+        {
+            "path":"/traits",
+            "description":"Display a listing of the resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Get a list of all traits",
+                    "nickname":"traits",
+                    "type":"CharacterTraitDataWrapper",
+                    "notes":"Returns a collection of traits"
+                }
+            ]
+        },
+        {
+            "path":"/traits/{trait_id}",
+            "description":"Display the specified resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Grab a specific trait",
+                    "nickname":"trait",
+                    "type":"CharacterTraitDataWrapper",
+                    "parameters":[
+                        {
+                            "paramType":"path",
+                            "name":"trait_id",
+                            "type":"integer",
+                            "required":true,
+                            "description":"ID of trait that needs to be fetched"
+                        }
+                    ],
+                    "responseMessages":[
+                        {
+                            "code":404,
+                            "message":"Trait not found."
+                        }
+                    ],
+                    "notes":"A comma delimited list of ids can also be used"
+                }
+            ]
+        }
+    ],
+    "models":{
+        "CharacterTraitDataWrapper":{
+            "id":"CharacterTraitDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of CharacterTrait objects. If only one CharacterTrait is requested, this will not be an array and will instead hold a singular CharacterTrait object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"CharacterTrait"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "CharacterTrait":{
+            "id":"CharacterTrait",
+            "properties":{
+                "id":{
+                    "description":"The trait identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the trait.",
+                    "type":"string"
+                },
+                "type":{
+                    "description":"The type of trait this...trait...is.",
+                    "type":"string"
+                },
+                "category":{
+                    "description":"The category this trait belongs in.",
+                    "type":"string"
+                },
+                "description":{
+                    "description":"A full description of this trait.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "description",
+                "id",
+                "name",
+                "source"
+            ]
+        }
+    }
+}

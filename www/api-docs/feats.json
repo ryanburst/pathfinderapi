@@ -1,0 +1,165 @@
+{
+    "basePath":"http://pathfinder.rburst.ny.dev.mcdpartners.com/api/v1",
+    "swaggerVersion":"1.2",
+    "apiVersion":"0.1",
+    "resourcePath":"/feats",
+    "apis":[
+        {
+            "path":"/feats",
+            "description":"Display a listing of the resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Get a list of all feats",
+                    "nickname":"feats",
+                    "type":"FeatDataWrapper",
+                    "notes":"Returns a collection of feats"
+                }
+            ]
+        },
+        {
+            "path":"/feats/{feat_id}",
+            "description":"Display the specified resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Grab a specific feat",
+                    "nickname":"feat",
+                    "type":"SpellDataWrapper",
+                    "parameters":[
+                        {
+                            "paramType":"path",
+                            "name":"feat_id",
+                            "type":"integer",
+                            "required":true,
+                            "description":"ID of feat that needs to be fetched"
+                        }
+                    ],
+                    "responseMessages":[
+                        {
+                            "code":404,
+                            "message":"Feat not found"
+                        }
+                    ],
+                    "notes":"A comma delimited list of ids can also be used"
+                }
+            ]
+        }
+    ],
+    "models":{
+        "FeatDataWrapper":{
+            "id":"FeatDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of Feat objects. If only one Feat is requested, this will not be an array and will instead hold a singular Feat object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"Feat"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "Feat":{
+            "id":"Feat",
+            "properties":{
+                "id":{
+                    "description":"The feat identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the feat.",
+                    "type":"string"
+                },
+                "description":{
+                    "description":"A description of what this feat is.",
+                    "type":"string"
+                },
+                "benefit":{
+                    "description":"The benefit gained by learning this feat.",
+                    "type":"string"
+                },
+                "normal":{
+                    "description":"What would normally occur if your character does not have this feat.",
+                    "type":"string"
+                },
+                "special":{
+                    "description":"Any additional or special information regarding this feat.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "benefit",
+                "description",
+                "id",
+                "name",
+                "normal",
+                "source",
+                "special"
+            ]
+        },
+        "SpellDataWrapper":{
+            "id":"SpellDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of Spell objects. If only one Spell is requested, this will not be an array and will instead hold a singular Spell object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"Spell"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "Spell":{
+            "id":"Spell",
+            "properties":{
+                "id":{
+                    "description":"The spell identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the spell.",
+                    "type":"string"
+                },
+                "school":{
+                    "description":"The school of magic this spell belongs to.",
+                    "type":"string"
+                },
+                "short_description":{
+                    "description":"A brief description of what this spell does.",
+                    "type":"string"
+                },
+                "description":{
+                    "description":"A full description of this spell.",
+                    "type":"string"
+                },
+                "description_formatted":{
+                    "description":"A full description of this spell, complete with HTML tags.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "description",
+                "description_formatted",
+                "id",
+                "name",
+                "school",
+                "short_description",
+                "source"
+            ]
+        }
+    }
+}

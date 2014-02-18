@@ -1,0 +1,150 @@
+{
+    "basePath":"http://pathfinder.rburst.ny.dev.mcdpartners.com/api/v1",
+    "swaggerVersion":"1.2",
+    "apiVersion":"0.1",
+    "resourcePath":"/magicitems",
+    "apis":[
+        {
+            "path":"/magicitems",
+            "description":"Display a listing of the resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Get a list of all magic items",
+                    "nickname":"magicitems",
+                    "type":"MagicItemDataWrapper",
+                    "notes":"Returns a collection of magic items"
+                }
+            ]
+        },
+        {
+            "path":"/magicitems/{magic_item_id}",
+            "description":"Display the specified resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Grab a specific magic item",
+                    "nickname":"magicitem",
+                    "type":"SpellDataWrapper",
+                    "parameters":[
+                        {
+                            "paramType":"path",
+                            "name":"magic_item_id",
+                            "type":"integer",
+                            "required":true,
+                            "description":"ID of magic item that needs to be fetched"
+                        }
+                    ],
+                    "responseMessages":[
+                        {
+                            "code":404,
+                            "message":"Magic Item not found"
+                        }
+                    ],
+                    "notes":"A comma delimited list of ids can also be used"
+                }
+            ]
+        }
+    ],
+    "models":{
+        "MagicItemDataWrapper":{
+            "id":"MagicItemDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of MagicItem objects. If only one MagicItem is requested, this will not be an array and will instead hold a singular MagicItem object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"MagicItem"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "MagicItem":{
+            "id":"MagicItem",
+            "properties":{
+                "id":{
+                    "description":"The magic item identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the magic item.",
+                    "type":"string"
+                },
+                "description":{
+                    "description":"A description of what this magic item is.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "description",
+                "id",
+                "name",
+                "source"
+            ]
+        },
+        "SpellDataWrapper":{
+            "id":"SpellDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of Spell objects. If only one Spell is requested, this will not be an array and will instead hold a singular Spell object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"Spell"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "Spell":{
+            "id":"Spell",
+            "properties":{
+                "id":{
+                    "description":"The spell identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the spell.",
+                    "type":"string"
+                },
+                "school":{
+                    "description":"The school of magic this spell belongs to.",
+                    "type":"string"
+                },
+                "short_description":{
+                    "description":"A brief description of what this spell does.",
+                    "type":"string"
+                },
+                "description":{
+                    "description":"A full description of this spell.",
+                    "type":"string"
+                },
+                "description_formatted":{
+                    "description":"A full description of this spell, complete with HTML tags.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "description",
+                "description_formatted",
+                "id",
+                "name",
+                "school",
+                "short_description",
+                "source"
+            ]
+        }
+    }
+}

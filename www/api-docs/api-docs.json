@@ -1,0 +1,31 @@
+{
+    "basePath":"/api-docs/",
+    "apiVersion":"0.1",
+    "swaggerVersion":"1.2",
+    "apis":[
+        {
+            "path":"/feats.json",
+            "description":"If you're playing a rogue, you better look at this list early."
+        },
+        {
+            "path":"/magicitems.json",
+            "description":"Magic Items and/or things you can't afford."
+        },
+        {
+            "path":"/monsters.json",
+            "description":"Monsters. Or Bestiary if you want to get literary."
+        },
+        {
+            "path":"/npcs.json",
+            "description":"Non-Playing Characters (NPCs)"
+        },
+        {
+            "path":"/spells.json",
+            "description":"Spells for your magic user. Pick a card..."
+        },
+        {
+            "path":"/traits.json",
+            "description":"Traits. Because your character needs more bonuses."
+        }
+    ]
+}

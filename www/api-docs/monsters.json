@@ -1,0 +1,101 @@
+{
+    "basePath":"http://pathfinder.rburst.ny.dev.mcdpartners.com/api/v1",
+    "swaggerVersion":"1.2",
+    "apiVersion":"0.1",
+    "resourcePath":"/monsters",
+    "apis":[
+        {
+            "path":"/monsters",
+            "description":"Display a listing of the resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Get a list of all monsters",
+                    "nickname":"monsters",
+                    "type":"MonsterDataWrapper",
+                    "notes":"Returns a collection of monsters"
+                }
+            ]
+        },
+        {
+            "path":"/monsters/{monster_id}",
+            "description":"Display the specified resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Grab a specific monster",
+                    "nickname":"monster",
+                    "type":"MonsterDataWrapper",
+                    "parameters":[
+                        {
+                            "paramType":"path",
+                            "name":"monster_id",
+                            "type":"integer",
+                            "required":true,
+                            "description":"ID of monster that needs to be fetched"
+                        }
+                    ],
+                    "responseMessages":[
+                        {
+                            "code":404,
+                            "message":"Monster not found"
+                        }
+                    ],
+                    "notes":"A comma delimited list of ids can also be used"
+                }
+            ]
+        }
+    ],
+    "models":{
+        "MonsterDataWrapper":{
+            "id":"MonsterDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of Monster objects. If only one Monster is requested, this will not be an array and will instead hold a singular Monster object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"Monster"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "Monster":{
+            "id":"Monster",
+            "properties":{
+                "id":{
+                    "description":"The monster identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the monster.",
+                    "type":"string"
+                },
+                "race":{
+                    "description":"The monster's race.",
+                    "type":"string"
+                },
+                "class":{
+                    "description":"The monster's class.",
+                    "type":"string"
+                },
+                "ability_scores":{
+                    "description":"The monster's ability scores.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "ability_scores",
+                "id",
+                "name",
+                "source"
+            ]
+        }
+    }
+}

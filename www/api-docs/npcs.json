@@ -1,0 +1,116 @@
+{
+    "basePath":"http://pathfinder.rburst.ny.dev.mcdpartners.com/api/v1",
+    "swaggerVersion":"1.2",
+    "apiVersion":"0.1",
+    "resourcePath":"/npcs",
+    "apis":[
+        {
+            "path":"/npcs",
+            "description":"Display a listing of the resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Get a list of all NPCs",
+                    "nickname":"npcs",
+                    "type":"NPCDataWrapper",
+                    "notes":"Returns a collection of NPCs"
+                }
+            ]
+        },
+        {
+            "path":"/npcs/{npc_id}",
+            "description":"Display the specified resource.",
+            "operations":[
+                {
+                    "method":"GET",
+                    "summary":"Grab a specific NPC",
+                    "nickname":"npc",
+                    "type":"NPCDataWrapper",
+                    "parameters":[
+                        {
+                            "paramType":"path",
+                            "name":"npc_id",
+                            "type":"integer",
+                            "required":true,
+                            "description":"ID of NPC that needs to be fetched"
+                        }
+                    ],
+                    "responseMessages":[
+                        {
+                            "code":404,
+                            "message":"NPC not found. His stealth bonus must be better than your perception check."
+                        }
+                    ],
+                    "notes":"A comma delimited list of ids can also be used"
+                }
+            ]
+        }
+    ],
+    "models":{
+        "NPCDataWrapper":{
+            "id":"NPCDataWrapper",
+            "properties":{
+                "data":{
+                    "description":"Array of NPC objects. If only one NPC is requested, this will not be an array and will instead hold a singular NPC object.",
+                    "type":"array",
+                    "items":{
+                        "$ref":"NPC"
+                    }
+                }
+            },
+            "required":[
+                "data"
+            ]
+        },
+        "NPC":{
+            "id":"NPC",
+            "properties":{
+                "id":{
+                    "description":"The NPC identifier.",
+                    "type":"integer"
+                },
+                "name":{
+                    "description":"The name of the NPC.",
+                    "type":"string"
+                },
+                "race":{
+                    "description":"The NPC's race - which apparently can be blank, don't look at me.",
+                    "type":"string"
+                },
+                "class":{
+                    "description":"The NPC's class. Pretty straight forward. Except when this field is blank. I do not know why.",
+                    "type":"string"
+                },
+                "ability_scores":{
+                    "description":"This NPC's ability scores or 'holy crap, these random numbers are better than all the players.'",
+                    "type":"string"
+                },
+                "special_abilities":{
+                    "description":"Any special abilities this NPC has. Feel free to make up your own when your PCs are getting to big for their armor.",
+                    "type":"string"
+                },
+                "before_combat":{
+                    "description":"A description of any special actions to be taken before this NPC lays down the hammer. Not a real one, cuz this could be a sorcerer or something.",
+                    "type":"string"
+                },
+                "after_combat":{
+                    "description":"A description of any special actions to be taken when the dust settles.",
+                    "type":"string"
+                },
+                "source":{
+                    "description":"The source material in which this information can be found.",
+                    "type":"string"
+                }
+            },
+            "required":[
+                "after_combat",
+                "before_combat",
+                "class",
+                "id",
+                "name",
+                "source",
+                "special_abilities"
+            ]
+        }
+    }
+}

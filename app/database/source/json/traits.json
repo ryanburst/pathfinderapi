@@ -1,0 +1,2852 @@
+[
+  {
+    "Name":"A Sure Thing",
+    "Type":"",
+    "Category":"Faction (The Silver Crusade)",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Once per day, you gain a +2 bonus on a single attack against an evil-aligned creature. If the creature is not evil-aligned, this ability is wasted with no benefit.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Accelerated Drinker",
+    "Type":"Basic",
+    "Category":"Combat",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You know how to drink a potion efficiently, such as by not using your hands, tossing it in the air and catching it in your mouth, or opening it with your teeth. You may drink a potion as a move action instead of a standard as long as you start your turn with the potion in your hand.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Adopted",
+    "Type":"Basic",
+    "Category":"Social",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were adopted and raised by someone not of your actual race, and raised in a society not your own. As a result, you picked up a race trait from your adoptive parents and society, and may immediately select a race trait from your adoptive parents�۪ race. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Aid Allies",
+    "Type":"",
+    "Category":"Faction (The Shadow Lodge)",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"When using the aid another action, you give your ally a +3 bonus instead of a +2 bonus.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Alchemical Prodigy",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"In your magical studies, you have learned to substitute the careful application of alchemical principles for spell knowledge. Choose one 1st-level spell from the bard, cleric, druid, or sorcerer/wizard spell list. If you have the Brew Potion feat, you may create potions of this spell as if it were on your spell list.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Alluring",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Dwarf race (follower of Bolka)",
+    "PFS_Legal":"",
+    "Description":"You have the art of turning a passing glance into love. You receive a +2 trait bonus on Diplomacy checks with those who find you attractive. You can use daze once per day as a spell-like ability, with a caster level equal to your character level.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Ambassador",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Sarenrae",
+    "PFS_Legal":"",
+    "Description":"Your natural abilities at mediation and compromise manifested at a young age. For as long as you can remember, you were always more able to solve disputes and carefully settle violent disagreements than others. You gain a +2 trait bonus to Diplomacy checks.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Anatomist",
+    "Type":"Basic",
+    "Category":"Combat",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have studied the workings of anatomy, either as a student at university or as an apprentice mortician or necromancer. You know where to aim your blows to strike vital organs and you gain a +1 trait bonus on all rolls made to confirm critical hits.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Andoren Freedom Fighter",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Andoran",
+    "PFS_Legal":"",
+    "Description":"You�۪ve dedicated your life to fighting against oppression, tyranny, and slavery. You gain a +1 trait bonus on attack and damage rolls against slavers or any creature holding someone against their will.",
+    "Source":"PCS:ISP",
+    "Version":""
+  },
+  {
+    "Name":"Animal Friend",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Gnome (from Katapesh)",
+    "PFS_Legal":"",
+    "Description":"You�۪ve long been a friend to many among Katapesh�۪s animal life, and feel safer when there are animals nearby. You gain a +1 trait bonus on Will saving throws as long as an animal (Tiny or larger, must be at least indifferent toward you) is within 30 feet, and Handle Animal is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Arcane Dabbler",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Elf",
+    "PFS_Legal":"",
+    "Description":"Though your magical studies were decades ago, you still remember your favorite little trick. Choose a 0-level arcane spell. You may cast that spell once per day as a spell-like ability. Your caster level is equal to your highest class level in a spellcasting class; if you have no caster level, it functions at CL 1st. The spell-like ability̢����s save DC is Intelligence- or Charisma-based (chosen when you select this trait).",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Armor Expert",
+    "Type":"Basic",
+    "Category":"Combat",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have worn armor as long as you can remember, either as part of your training to become a knight�۪s squire or simply because you were seeking to emulate a hero. Your childhood armor wasn�۪t the real thing as far as protection, but it did encumber you as much as real armor would have, and you�۪ve grown used to moving in such suits with relative grace. When you wear armor of any sort, reduce that suit�۪s armor check penalty by 1, to a minimum check penalty of 0. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Asmodean Demon Hunter",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Asmodeus",
+    "PFS_Legal":"",
+    "Description":"Raised in the church of Asmodeus (whether or not you are currently a follower of the Prince of Darkness), you̢����ve focused your indoctrinated fervor primarily on the elimination of demons. You gain a +3 trait bonus on Knowledge (planes) checks about demons and a +2 trait bonus on Will saves against mind-affecting spells and effects from demons.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Aspiring Bard",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"You spent countless hours of your youth wandering the open campuses of the Kitharodian Academy and the Rhapsodic College, listening to wonderful musicians and singers and daydreaming of your life as a bard. You gain a +1 trait bonus to one category of Perform checks and a +2 trait bonus to any Knowledge (local) checks that deal with the Oppara music scene.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Attuned to the Ancestors",
+    "Type":"",
+    "Category":"Faction - Osirion",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were raised to believe that undead were nothing to fear̢��۝they are simply the unliving remnants of your honored ancestors. Once per day, you can surround yourself with an aura of unlife. Unintelligent undead ignore you unless you take action against them, per hide from undead. The protection lasts for 1 round per two character levels you possess. If you take any offensive action against any undead, this effect immediately ends. This is a supernatural ability.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Augmented Disguise",
+    "Type":"",
+    "Category":"Equipment",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You are especially good at disguising yourself when you have props available. You gain a +2 trait bonus on Disguise checks when wearing a wig, false beard, or similar large prop, or if you are wearing a special costume or eye-catching bauble that reinforces your disguise.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Azlant Fanatic",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (Azlanti subrace)",
+    "PFS_Legal":"",
+    "Description":"Your years spent in libraries reading every musty tome you could find about the ancient lost civilization of Azlant have given you insight into the subjects of history and the arcane. You gain a +1 trait bonus to Knowledge (arcana) and Knowledge (history) checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Bad Reputation",
+    "Type":"",
+    "Category":"Faction (The Sczarni)",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":" The reputation of the Sczarni precedes your  arrival.  You  gain  a  +2  trait  bonus  on  Intimidate checks, and Intimidate becomes a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Bastard",
+    "Type":"Campaign",
+    "Category":"Kingmaker",
+    "Prerequisite":"Human race",
+    "PFS_Legal":"",
+    "Description":"One of your parents was a member of one of the great families of Brevoy, perhaps even of the line of Rogarvia itself. Yet you have no substantive proof of your nobility, and you�۪ve learned that claiming nobility without evidence makes you as good as a liar. While you might own a piece of jewelry, a scrap of once-rich fabric, or an aged confession of love, none of this directly supports your claim. Thus, you�۪ve lived your life in the shadow of nobility, knowing that you deserve the comforts and esteem of the elite, even though the contempt of fate brings you nothing but their scorn. Whether a recent attempt to prove your heritage has brought down the wrath of a noble family�۪s henchmen or you merely seek to prove the worth of the blood in your veins, you�۪ve joined an expedition into the Stolen Lands, hoping to make a name all your own. You take a ���1 penalty on all Charisma-based skill checks made when dealing with members of Brevic nobility but gain a +1 trait bonus on Will saves as a result of your stubbornness and individuality. (The penalty aspect of this trait is removed if you ever manage to establish yourself as a true noble.)",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Battlefield Caster",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Dwarf race (follower of Angradd, Gorum, Torag, or Trudd)",
+    "PFS_Legal":"",
+    "Description":"Your faith protects you even as you unleash spells in the thick of battle. You receive a +1 trait bonus on concentration checks to cast defensively and a +1 trait bonus to AC against attacks provoked by or readied against spellcasting.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Beneficient Touch",
+    "Type":"",
+    "Category":"Faction (The Silver Crusade)",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Once per day, when you cast a spell or use a class ability that heals hit point damage, reroll any 1s that appear on the dice and take the new roll (even if it is another 1).",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Birthmark",
+    "Type":"Basic",
+    "Category":"Faith",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were born with a strange birthmark that looks very similar to the holy symbol of the god you chose to worship later in life. This birthmark can serve you as a divine focus for casting spells, and, as a physical manifestation of your faith, increases your devotion to your god̢��۝you gain a +2 trait bonus on all saving throws against charm and compulsion effects as a result.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Blade of Mercy",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Sarenrae",
+    "PFS_Legal":"",
+    "Description":"You know that within the heart of even the most hateful and cruel living creature exists a sliver of shame and hope for redemption. You have trained long on martial techniques to use bladed weapons not to kill, but to subdue. When striking to inflict nonlethal damage with any slashing weapon, you do not take the normal ̢����4 penalty on your attack roll, and gain a +1 trait bonus to any nonlethal damage you inflict with a slashing weapon.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Blooded",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Mindspin Mountains)",
+    "PFS_Legal":"",
+    "Description":"Desperate battles have honed your fighting skills against the ancient enemies of the dwarves. You receive a +1 trait bonus on weapon damage rolls against giants, goblins, and orcs.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Brastlewark Businessman",
+    "Type":"Basic",
+    "Category":"Social",
+    "Prerequisite":"Gnome",
+    "PFS_Legal":"Legal",
+    "Description":"Your time among the Brastlewark elite has led to an extensive knowledge of alchemy and ready connections in the trade. You gain a +2 trait bonus on all Craft (alchemy) checks.",
+    "Source":"PCo:GoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Brigand",
+    "Type":"Campaign",
+    "Category":"Kingmaker",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You hail from the River Kingdoms or the more lawless reaches of Brevoy. Life has been hard for you. Perhaps your parents and siblings were crooks and con artists, or maybe your rough, lonely life lead you to fall in with thieves and worse. You know how to ambush travelers, bully traders, avoid the law, and camp where no one might find you. Recently, you�۪ve run into some trouble, either with the law or with other bandits, and you�۪re looking to get away to somewhere no one would ever think to look for you. An expedition into the rugged wilderness seems like a perfect way to lie low until the trouble blows over. You begin the campaign with an extra 100 gp in ill-gotten gains. You also gain a +1 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks when dealing with brigands, thieves, bandits, and their ilk. ",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Brute ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Half-orc (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"You have spent long hours working for a crime lord, either as a low-level enforcer or as a guard or bouncer. You're adept at frightening away people and gain a +2 trait bonus on Intimidate checks.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Bullied",
+    "Type":"Basic",
+    "Category":"Combat",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were bullied often as a child, and you are now constantly ready to defend yourself with your fists when an enemy comes near. You gain a +1 trait bonus on attacks of opportunity attack rolls made with unarmed strikes. Note that this trait does not grant the ability to make attacks of opportunity with your unarmed strikes���you�۪ll need to take a level of monk, the Improved Unarmed Strike feat, or some other similar power to gain the use of this Character Trait. However, that doesn�۪t prevent you from selecting this trait. You�۪ll simply not be able to make use of it until a later point if you do. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Bully",
+    "Type":"Basic",
+    "Category":"Social",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You grew up in an environment where the meek were ignored and you often had to resort to threats or violence to be heard. You gain a +1 trait bonus on Intimidate checks, and Intimidate is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Calistrian Prostitute",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Calistria",
+    "PFS_Legal":"",
+    "Description":"You worked in one of Calistria�۪s temples as a sacred prostitute, and you know how to flatter, please, and (most of all) listen. You gain a +1 trait bonus on Gather Information and Sense Motive checks.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Canter",
+    "Type":"Basic",
+    "Category":"Social",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You grew up among thieves and scoundrels, and their unusual speech patterns and turns of phrase don�۪t phase you in the slightest today as a result. Anyone who attempts to use Bluff to deliver a secret message to you gains a +5 bonus on his Bluff check. When you attempt to intercept a secret message using Sense Motive, you gain a +5 trait bonus on the attempt.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Captain's Blade",
+    "Type":"",
+    "Category":"Faction - Andoran",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were born on board a ship and learned to fight beside the sailing men and women of \nthe Andoren fleet. While on board any vessel afloat on water, you gain a +1 trait bonus on Acrobatics and Climb checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Carefully Hidden ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human (Keleshite)",
+    "PFS_Legal":"",
+    "Description":"Modern Taldor is not kind to Keleshites. Your life as a member of an unpopular ethnic group has given you an uncanny knack for avoiding detection. You gain a +1 trait bonus to Will saves and a +2 trait bonus to saving throws versus divination effects.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Caretaker",
+    "Type":"Basic",
+    "Category":"Faith",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"As the child of an herbalist or an assistant in a temple infirmary, you often had to assist in tending to the sick and wounded. You gain a +1 trait bonus on Heal checks, and Heal is always a class skill for you. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Charlaton",
+    "Type":"Race",
+    "Category":"Gnome",
+    "Prerequisite":"Non-lawful alignment",
+    "PFS_Legal":"Legal",
+    "Description":"Your talent for illusion goes beyond a mere knack for figments and phantasms. You can actually channel spell energy into simple illusions that augment your attempts at deception. As a swift action, you may expend one prepared spell or spell slot to gain a bonus on the next Bluff check you make, provided the check takes place before the beginning of your next turn. The bonus on this check is equal to the level of the spell consumed. You may use this ability 3 times per day.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Charming",
+    "Type":"Basic",
+    "Category":"Social",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Blessed with good looks, you�۪ve come to depend on the fact that others find you attractive. You gain a +1 trait bonus when you use Bluff or Diplomacy on a character that is (or could be) sexually attracted to you, and a +1 trait bonus to the save DC of any language-dependent spell you cast on such characters or creatures.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Child of Infamy",
+    "Type":"Campaign",
+    "Category":"Council of Thieves",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your family has long been in show business. Perhaps it was your parents, or an older sibling, or an uncle or aunt���whatever the case, one of your close relatives is, or was, a well-known and well-loved actor or actress. That this relation died in some compromising and embarrassing way has done little to alter your family�۪s name and fame���if anything, the unfortunate death has increased it. When folk learn your last name, they are quick to assume you live a wild life like your ill-fated relative, and whether you bask in this notoriety or do your best to hide your heritage, the years of association with the acting scene have had their effect. You�۪ve certainly inherited your relative�۪s talents, and are a larger-than-life figure, a melodramatic attention-hound, or a sly manipulator of emotions. You gain a +1 trait bonus on Perform (act) skill checks, and the skill is always considered a class skill for you. Furthermore, you�۪ve inherited some of your relative�۪s funds, and begin play with a nest egg of 300 gp that you can spend however you wish.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Child of the Street",
+    "Type":"Basic",
+    "Category":"Social",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You grew up on the streets of a large city, and as a result you have developed a knack for picking pockets and hiding small objects on your person. You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Child of the Temple",
+    "Type":"Basic",
+    "Category":"Faith",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have long served at a temple in a city, and not only did you pick up on many of the nobility�۪s customs, you spent much time in the temple libraries studying your faith. You gain a +1 trait bonus on Knowledge (nobility and royalty) and Knowledge (religion) checks, and one of these skills (your choice) is always a class skill for you. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Child of Zolurket",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Katapesh)",
+    "PFS_Legal":"",
+    "Description":"You come from a family whose ancestors worked in the platinum mines near Tar Urkatka, now known as Zolurket. Your parents never explained why they've never returned to Zolurket, but they did make sure that you knew your way around a fight against undead foes. You gain a +1 trait bonus to weapon damage against undead.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Chivalrous",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"You were raised on stories of heroic knights and benevolent wizards, and wish to emulate their great deeds. You gain a +1 trait bonus to Diplomacy and Knowledge (history) checks.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Classically Schooled",
+    "Type":"Basic",
+    "Category":"Magic",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your apprenticeship or early education was particularly focused on the direct application of magic. You gain a +1 trait bonus on Spellcraft checks, and Spellcraft is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Cleansing the Twisted",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Sarenrae",
+    "PFS_Legal":"",
+    "Description":"You have studied well the many religious texts that chronicle Sarenrae�۪s neverending struggle against Rovagug and his monstrous offspring. Your fighting style works particularly well when you utilize slashing weapons against aberrations. You gain a +1 trait bonus to slashing weapon damage against all aberrations.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Clearheaded",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You see through deception and lies.  You gain a +1 trait bonus on opposed checks against the Bluff and Disguise skills and a +1 trait bonus on saving throws against illusion effects.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Cliff Jumper",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Cliffs of Fury",
+    "PFS_Legal":"",
+    "Description":"You spent your early years exploring and foraging along the coastal cliffs. You gain a +1 trait bonus on Acrobatics and Climb checks, and on Reflex saves to avoid falling.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Coin Hoarder",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Mindspin Mountains)",
+    "PFS_Legal":"",
+    "Description":"Everything has a price���and it�۪s your job to know it. Your starting cash increases to 500 gp.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Collector",
+    "Type":"Race (Gnome)",
+    "Category":"",
+    "Prerequisite":"Gnome race",
+    "PFS_Legal":"Legal",
+    "Description":"You have a small, bizarre collection of apparently worthless items, such as rusty nails, animal droppings, clockwork cogs, or bent spoons. You find this strange menagerie useful in ways no non-gnome could understand. Seeking new items to add to this collection is endlessly fascinating to you, and while no one else may understand why a Chelish horsenail is worthy to add to your collection when a dwarven wheelbarrow nail is not, it all makes sense to you. Select one of the following skills: Craft (any one), Disable Device, Escape Artist, Perform (any one), Spellcraft. Whenever you have your collection within 5 feet of you, you gain a +2 trait bonus on all checks made with the selected skill. Once this skill has been selected, it cannot be changed, nor can you gain it for any other collection you begin amassing.",
+    "Source":"PCo:GoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Comparative Religion",
+    "Type":"Faction (The Silver Crusade)",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your  allies  within  the  Silver Crusade have taught you a lot about other faiths. You gain a +1 trait bonus on Knowledge (religion) skill checks, and Knowledge (religion) becomes a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Conspiracy Hunter ",
+    "Type":"Council of Thieves",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve long heard rumors of dark deeds afoot in Westcrown. Shipments of valuable cargo that go missing with nary a trace or question asked. People who disappear as though they never existed. Lords of business and nobles who speak in veiled references and accidental slips of masters even they must obey. What lords rule the Westcrown underworld? Do the tales of far-reaching criminal organizations hold a hint of truth? Could the fabled Council of Thieves, said to have been purged from the city ages ago, have somehow survived or reformed? And what hold do they hold over the city today? You don�۪t know, but you�۪re determined to find out! Choose one of the following skills: Bluff, Diplomacy, Knowledge (local), Perception, Sense Motive, or Stealth. You gain a +1 trait bonus on this skill and it is always considered a class skill for you.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Courageous",
+    "Type":"Combat",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your childhood was brutal, yet you persevered primarily through force of will and the hope that no matter how hard things might get, as long as you kept a level head you�۪d make it through. You gain a +2 trait bonus on saving throws against fear effects. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Courageous",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your childhood was brutal, yet you persevered primarily through force of will and the hope that no matter how hard things might get, as long as you kept a level head you̢����d make it through. You gain a +2 trait bonus on saving throws against fear effects.",
+    "Source":"P:CTWE",
+    "Version":""
+  },
+  {
+    "Name":"Dangerously Curious",
+    "Type":"Magic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have always been intrigued by magic, possibly because you were the child of a magician or priest. You often snuck into your parent�۪s laboratory or shrine to tinker with spell components and magic devices, and often caused quite a bit of damage and headaches for your parent as a result. You gain a +1 bonus on Use Magic Device checks, and Use Magic Device is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Dealmaker",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have the air of a person with money, allowing you to buy and sell valuables that otherwise are too rich for the local community. Once per week, when looking for an item with a price greater than the local community�۪s base value (see page 461 of the Pathfinder RPG Core Rulebook), make a DC 10 Diplomacy check; add 10 to the DC for each community size category between the current community and the community size with a base value sufficient for that item. Success means (with GM approval) you�۪re able to sell or purchase that item as if the local community were of sufficient size. Each additional attempt (successful or otherwise) in that community increases the DC by an additional +10.\n\nExample: If you�۪re trying to find a +1 cloak of resistance (1,000 gp), you�۪d normally need to be in a small town (base value 1,000 gp) or larger to be able to find that item with little trouble. If you�۪re currently in a hamlet, that�۪s two community sizes away from a small town, so the Diplomacy DC is 30. If you went to a village and asked there, the DC would only be 20 because it�۪s only one community size away from a small town.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Deep Guardian",
+    "Type":"Magic",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"The subtle power of the deep places of the world flows within you, and grants you mastery of summoning beings of earth and stone. Any creature you conjure with a summon spell that has the earth subtype or a burrow speed gains a +1 morale bonus on attack rolls and a +1 enhancement bonus to Armor Class for the duration of the spell that summoned it. ",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Deep Marker",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You�۪ve dared uncharted tunnels in pursuit of the gladdringgar (the chiseling of name-runes in subterranean depths). You gain a +1 trait bonus on Survival checks, and a +1 trait bonus on saving throws against fear effects.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Deft Dodger",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Growing up in a rough neighborhood or a dangerous environment has honed your senses. You gain a +1 trait bonus on Reflex saves.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Dervish",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You trained at a secret fighting school in Katheer where you learned the art of rapid movement in combat. You gain a +1 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. Dodge bonuses stack with each other, unlike most types of bonuses.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Desert Child",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You were born and raised in southern Katapesh, in the rocky deserts that border Nex. You are accustomed to high temperatures and gain a +4 trait bonus on any saving throws made to resist the effects of being in hot conditions, and a +1 trait bonus on all saving throws against fire effects.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Desert Shadow",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You move with a quick and quiet grace and your enemies are often taken unawares by your silent speed. When using the Stealth skill to move at full speed you no longer suffer a ̢����5 penalty on your Stealth skill check.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Desperate Focus",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve often found yourself in situations where a lack of focus can lead to worse than a lost spell. You gain a +2 trait bonus on concentration checks.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Devil's Mark",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You bear the stain of a higher fiend upon you and any evil creature who sees it may think twice before crossing you. You gain a +2 trait bonus on all Bluff, Diplomacy, Intimidate, and Sense Motive checks when dealing with outsiders of the evil subtype.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Devotee of a Dead God ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Aroden",
+    "PFS_Legal":"",
+    "Description":"You simply cannot and will not accept that Aroden is dead. Your faith in his teachings and religion are stronger than ever. You gain a +1 trait bonus on Diplomacy checks and Knowledge (religion) checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Devotee of the Green",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your faith in the natural world or one of the gods of nature makes it easy for you to pick up on related concepts. You gain a +1 trait bonus on Knowledge (geography) and Knowledge (nature) checks, and one of these skills (your choice) is always a class skill for you. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Diabolical Dabbler ",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Each fiendish animal you conjure with any summon spell gains +1 hit point per hit die for the duration of the spell that summoned it.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Diabolist Raised ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"All your life you�۪ve lived within the grip of devil-possessed Cheliax. You care little for the religion of your country, but that is the way of life in the most magnificent empire in the world, and who are you to question the faith of the empire�۪s rulers? Certainly not a fool like some of your more idealistic acquaintances, possessed of bizarre ideals about personal freedoms and egalitarian rulership���who can say whatever happened to them? You know of Hell and the rigidity of its grim rulers, you�۪ve seen devils and how they might be employed to the betterment of those with the might to control them, and you know of the dark faith of your country. You might not be a devil worshiper yourself, but there are realities to living in Cheliax, and it�۪s always good to know what�۪s really going on behind the scenes. Your knowledge of diabolism grants you a +1 bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks made against Westcrown�۪s nobility, and a +1 bonus on all saving throws made against mindaffecting attacks from devils.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Dilettante Artist",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Elf race (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"Art for you is a social gateway and you use it to influence and penetrate high society. You gain a +1 trait bonus to one category of Perform checks and a +1 trait bonus to Diplomacy checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Dirty Fighter",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You wouldn�۪t have lived to make it out of childhood without the aid of a sibling, friend, or companion on whom you could always count to distract your enemies long enough to do a little bit more damage than normal. When you hit a foe you are flanking, you deal an additional 1 point of damage (this damage is added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Divine Warrior ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Iomedae",
+    "PFS_Legal":"",
+    "Description":"From an early age, you were trained by militaristic order of clerics. You are devoted both to the teachings of Iomadae and to spreading those teachings by force. Your divine spells gain a +1 trait bonus to melee weapon damage.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Dump Salvager ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Westcrown",
+    "PFS_Legal":"",
+    "Description":"You grew up in or around Westcrown�۪s rubbish-strewn shores and spent your spare time digging through trash looking for things worth selling. You gain a +3 trait bonus on Perception checks to search for concealed items.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Dunewalker",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your people have long roamed the shifting and treacherous sands and you do not fear the harsh wrath of the unforgiving desert. You gain a +4 trait bonus on Fortitude checks to resist nonlethal damage from hot conditions and can always move through non-magical sand as if it were normal terrain.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Duskwalker Agent",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"Illegal",
+    "Description":"You spent a portion of your childhood working for the Duskwalkers, the guild responsible for policing and watching over all trade that takes place in Katapesh�۪s notorious Nightstalls. You have quite a bit more spending cash than most others of your age as a result. You start with twice the normal amount of starting gold. In addition, your reputation remains strong in the Nightstalls, and any transactions you make there are always beneficial to you; items you sell net you an additional 10% profit, and items you purchase there are 10% cheaper than normal. This discount also applies to your starting gear.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Earning Your Freedom ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve been a slave your whole life, and have passed from master to master more times than you can count. Some of those masters were cruel, others kindly. In all cases, you�۪ve yearned to be free. When your most recent master fell on hard times, he sold many of his slaves to the city government, and as luck would have it, a recent opportunity to earn your freedom has manifested. The Pactmasters of Katapesh are looking to revitalize an old trade route to Osirion, and a band of mercenaries and guards is gathering to go out and supplement forces already in place near the ruined village of Kelmarane, now said to be infested by gnolls. You�۪ve secured a place among those mercenaries, under the watchful eye of Garavel. If you help in retaking Kelmarane, you�۪ve been promised your freedom. In any event, your life as a slave has toughened you and made you more resistant to hardship. Choose one of the three categories of saving throw; you gain a +1 trait bonus on all saving throws of that type.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Earthbound",
+    "Type":"Magic",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"Your druid spells use a handful of earth or sand as a divine focus in addition to the normal components. While you are touching the ground, you add a +2 trait bonus to saving throw DCs and on caster level checks to overcome spell resistance for all spells you cast against creatures with the air subtype.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Ease of Faith",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your mentor, the person who invested your faith in you from an early age, took steps to ensure that you understood that what powers your divine magic is no different than that which powers the magic of other religions. This philosophy makes it easier for you to interact with others who may not share your views. You gain a +1 bonus on Diplomacy checks, and Diplomacy is always a class skill for you. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Eastern Mysteries",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Ever since you were a young child, you studied the ancient arcane arts of several Eastern societies and those studies have made your spellcasting ability sometimes difficult to resist. Once per day you may select one single spell that you are casting that allows for a saving throw. You may increase the DC of that spell by +2.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Egorian School Apprentice",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Egorian",
+    "PFS_Legal":"",
+    "Description":"You studied under one of the masters of the Egorian School style of architecture. You gain a +3 trait bonus on Knowledge (engineering) checks and a +2 trait bonus on Perception checks to find secret doors or traps in buildings built in the Egorian School style.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Ekujae Reflexes",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Half-elf race (from Katapesh)",
+    "PFS_Legal":"",
+    "Description":"One of your parents was a member of the Ekujae tribe of the Mwangi Expanse, and you�۪ve inherited a portion of your elven parent�۪s quick reflexes. You gain a +2 trait bonus on Initiative checks.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Ekujae Reflexes",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"One of your parents was a member of the Ekujae tribe of the Mwangi Expanse, and you've inherited a portion of your elven parent's quick reflexes. You gain a +2 trait bonus on Initiative checks.",
+    "Source":"PCo:LoFPG",
+    "Version":""
+  },
+  {
+    "Name":"Eldritch Smith",
+    "Type":"Magic",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You are learned in the secret lore of the forge, rituals handed down for generations that some say come from Torag himself. Whenever you use the Craft skill or a crafting feat to make a stone or metal item, you reduce the cost of making the item by 5%. This includes metal-handed weapons with nonmetal parts, such as axes and spears. ",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Elemental Pupil",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"You have studied at the feet of the masters of Katheer�۪s colleges of magic, and so increased your own mastery of the elements. Choose one of the following energy types: acid, cold, electricity, or fire. When casting a spell of 1st level or higher that deals damage of your chosen energy type, the spell deals 1 extra point of damage of this type.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Etymologist",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Legal",
+    "Description":"When you, like all other young gnomes, were taught the hodgepodge Gnome language, you became curious about the original meaning of each word and what language it was derived from. Anytime you come across a new language, you are immediately absorbed by both how it works and what words you can co-opt from it for the Gnome language. You gain a +1 trait bonus on Linguistics checks, know one additional bonus language, and treat Linguistics as a class skill.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Excitable",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Yes",
+    "Description":"You demand that everything must happen right now, no matter what, and are too impatient to wait for everyone else to catch up. You finish people�۪s sentences, blurt out the punch lines to slowly-told jokes, rarely make plans, and leap headlong into anything that looks like it might get interesting. While this has sometimes gotten you in trouble, it�۪s also trained you to start moving a split second before everyone else, and that�۪s saved your hide a few times as well. You gain a +2 trait bonus on all Initiative checks.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Expert Duelist",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"In your youth, you spent countless hours perfecting the art of the duel, focusing  your feints on defeating a single foe. You gain a +1 trait bonus to your Armor Class so long as you are adjacent to a single foe. This trait bonus is not applied to your Armor Class for touch attacks or when denied your Dex bonus.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Explorer",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your family heritage is filled with proud and renowned explorers, and you are a natural wayfinder. You gain a +1 trait bonus on Survival checks, and Survival is always a class skill for you",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Explorer",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Yes",
+    "Description":"Though many gnomes settle down in communities large enough and interesting enough to provide them with all the stimulation they need to ward off the Bleaching, you�۪re never going to be one of them. You are always looking around the next bend in the road or over the next hill, past the borders of where you are to where you want to be. At the beginning of each character level, select one desired terrain type from the following list: cold, desert, forest, jungle, mountains (including hills), plains, planes (other than the Material Plane), swamp, underground (including caves and dungeons), urban, water. You gain a +2 bonus on all Survival checks made in your desired terrain type. At the beginning of each level, you must select a new desired terrain type to replace the old one (you cannot take the same desired terrain type two levels in a row).",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Extremely Fashionable",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You really know how to make a good impression when you�۪re dressed well. Whenever you are wearing clothing and/or jewelry worth at least 150 gp (and not otherwise covered in gore, sewage, or other things that mar your overall look), you gain a +1 trait bonus on Bluff, Diplomacy, and Intimidate checks. One of these skills (your choice) is a class skill for you.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Eyes and Ears of the City",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Abadar",
+    "PFS_Legal":"Yes",
+    "Description":"Your religious training was entwined with your work serving the city watch of a large city, the primary duty of which was standing sentinel on a city wall. You gain a +1 trait bonus on Perception checks.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Failed Apprentice ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Half-elf race (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"As a child, your parents sent you to a distant wizard�۪s tower as an apprentice so that you might learn the arcane arts. Unfortunately, you had no arcane talent whatsoever, though you did learn a great deal about the workings of magic and how to resist them. You gain a +1 trait bonus to saves against arcane spells.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Fanatic",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your years spent in libraries reading every musty tome you could find about ancient lost civilizations has given you insight into the subjects of history and the arcane. You gain +1 to Knowledge (arcana) and Knowledge (history) checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Fashionable",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You spent your youth as a young blade in Oppara and learned the ins and outs of using fashion to improve your relations with others. So long as you are wearing  clothing  and  jewelry  worth  more  than  80  gp, you gain a +1 trait bonus on Bluff, Diplomacy, and Sense Motive checks. One of these skills (your choice) becomes a class skill for you",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Fast-Talker",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You grew up in an environment where the meek were ignored and you often had to resort to threats or violence to be heard. You gain a +1 trait bonus on Bluff checks, and Bluff is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Fencer",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You trained long hours as a youth with blades, either taking lessons in the genteel art of fencing from tutors paid for by your parents or by being taken under the wing of a disenfranchised fencer who may have turned to a life of crime. You gain a +1 trait bonus on attacks of opportunity made with daggers, swords, and similar bladed weapons. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Fiendish Presence",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your  family  routinely  held  court with pit fiends and erinyes when you were a child, and as a result, you learned to manipulate people better than most. You gain a +1 trait bonus on Diplomacy and Sense Motive checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Finding Haleen",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You never knew your parents���perhaps they died when you were a child, or maybe you were taken from them and raised elsewhere as a slave. You owe your sanity and your life to a woman named Haleen. She could be your sister or merely a childhood companion, but whatever your relationship to her, she took care of you and protected you. She�۪s always been a part of your life, and although her temper often kept her from making friends or keeping a job, she�۪s always been kind to you. Haleen was instrumental in securing your freedom from slavery or making sure you got a good apprenticeship or job in society���but recently, she�۪d been growing strangely morose and depressed. You and Haleen normally kept no secrets, but whatever was bothering her wasn�۪t something she shared with you. One night, she vanished, leaving you a brief note, begging you to forget her and to get on with your life, but something about the note bothered you���something in the way she phrased her words struck you as forced. You may be convinced she�۪d been kidnapped, forced to leave against her will, or even magically controlled, but you also suspect that she left you to protect you from something���that was ever her way. You�۪re now convinced that it�۪s time for you to step in and protect her, but you had no idea where she may have gone until recently. Several months have passed since she disappeared, and you�۪ve spent those months searching for clues to her location, and you�۪ve finally found a lead���a mysterious note, a strange dream, the result of a back-alley divination, or a report of a sighting of a woman matching Haleen�۪s description has come to you, placing Haleen in the vicinity of an old ghost town named Kelmarane. What she�۪s doing there and how she came to be there makes no sense to you yet, but the lead is the strongest one you�۪ve had. This and Garavel�۪s advertisement for mercenaries to accompany him to the region is all the omen you need. You joined Garavel�۪s group and eagerly await the day you�۪ll be leaving for Kelmarane. Although Haleen chose to become a swashbuckling adventurer, she always encouraged you to seek your own path. The class you chose at 1st level is always a favored class to you, and your dedication to it is such that every time you take a level in the class, you gain +1 hit point and 1 additional skill point over and above what you would normally gain. If multiple PCs take this trait, they should be siblings who were both protected and raised by Haleen.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Fires of Hell",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your parents signed a pact with a fiend of Hell before you were born and you can summon fire to your aid. Once per day, as a swift action, you can summon fire, imbuing a single weapon you hold with a nimbus of fire that deals an extra 1 point of fire damage for as many rounds as your Charisma bonus. This fire gives off light equivalent to a torch. This is a supernatural ability.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"First Memories",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Yes",
+    "Description":"For your whole life, you�۪ve felt there was a world just beyond the fabric of the material objects around you, and sometimes you can hear the north wind calling you or smell the dread taint of polluted water before you taste it. You do not gain the normal list of spell-like abilities for the gnome magic racial trait. Instead, if you have a Wisdom of 11 of higher, you gain the following spell-like abilities: 1/day���detect poison, know direction, stabilize, and speak with animals. The caster level for these effects is equal to your character level. The DC for these spells is equal to 10 + the spell�۪s level + your Wisdom modifier.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Flame of the Dawnflower",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Sarenrae",
+    "PFS_Legal":"",
+    "Description":"You have been raised to view yourself as a blade in Sarenrae�۪s service, or have taken that duty on for yourself. Whenever you score a critical hit with a scimitar, you deal an additional two points of fire damage to your target. If you ever abandon the worship of Sarenrae, you immediately lose access to this trait�۪s benefits.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Focused Mind",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your childhood was either dominated by lessons of some sort (be they musical or academic) or by a horrible home life that encouraged your ability to block out distractions to focus on the immediate task at hand. You gain a +2 trait bonus on concentration checks.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Fools for Friends",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You don�۪t think of yourself as a gambler. In fact, you rather detest the whole thing. Unfortunately, one or more of your friends (pick one or more of the other players�۪ characters) doesn�۪t think so, and you�۪ve recently learned that friend���or friends���have decided to go to the Gold Goblin�۪s ���Cheat the Devil and Take his Gold�۝ tournament. Which pretty much means you have to go as well, since if no one�۪s there to watch out for them, they�۪ll lose all their money and respect. Again. Sometimes it�۪s hard being the responsible one. Your devotion to your friendships (even when said friends seem, at times, to be trying to test that devotion) is a point of pride to you. Whenever you take the Aid Another action to help an ally, or whenever an ally aids you in this manner, a successful check grants an additional +1 trait bonus to the check for which aid was being rendered. Additionally, as long as one of your friends is within 30 feet, you gain a +1 trait bonus on all saving throws against charm and compulsion effects.",
+    "Source":"PCo:SD",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Force For Good",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your good-aligned spells are especially powerful, and they function at +1 caster level. This trait makes  your  aura  more  powerful  (one  step  higher),  as outlined in the detect evil spell.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Forlorn",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Elf race (from any non-elven land)",
+    "PFS_Legal":"",
+    "Description":"There are no major elven settlements in Katapesh, and like many of the region�۪s elves, you were forced to grow up among shorter-lived races like humanity. Having lived outside of traditional elven society for much or all of your life, you know the world can be cruel, dangerous, and unforgiving of the weak. You gain a +1 trait bonus on Fortitude saving throws.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Fortified",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Some members of the Shadow Lodge aren�۪t completely convinced of the Decemvirate�۪s sincerity and fear potential reprisals. Through alchemical techniques and endurance training, you gain the ability to negate a critical hit or sneak attack scored against you once per day.  This  functions  as  the  fortification  armor  quality with a 20% chance of success",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Framed (Dropout)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were the one accused. Although you were eventually freed when a friend confronted the fisherman and got the truth, the damage had been done. You were forced to leave your school (perhaps the Acadamae) or church. As a result, you were forced to self-train and promised yourself you would become better at your chosen profession despite the spurning of your peers. You gain a +2 bonus on Spellcraft checks.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Framed (Family Honor)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The person framed was a family member, perhaps a father or brother. You managed to trick the fisherman into revealing the truth with your skilled tongue. You gain a +2 bonus on Bluff checks.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Freed Slave",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You spent a significant portion of your childhood as a slave, but were freed from slavery several years ago by a benevolent master who purchased you from an auction after your previous master�۪s death. Yet while the memories of your difficult childhood still haunt you, the hard life did toughen you. You gain a +1 trait bonus on Fortitude saves.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Freedom Fighter",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Shokuro",
+    "PFS_Legal":"",
+    "Description":"You come from a family of farmers, but are determined to fight for your rights. You gain a +1 trait bonus on attacks made with improvised weapons. If you do not possess the Catch Off-Guard or Throw Anything feats, you still take penalties on these attack rolls as normal.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Freedom Fighter",
+    "Type":"??",
+    "Category":"",
+    "Prerequisite":"??",
+    "PFS_Legal":"",
+    "Description":"Although halfling slaves are not as common in Katapesh as they are in Cheliax, they still make up a quarter of slaves sold at the Katapeshi Fleshfairs. Your parents allowed escaping slaves to hide in your home frequently, and the stories you�۪ve heard from these escaping slaves instilled into you a deep loathing of slavery. You gain a +1 trait bonus on any skill check or attack roll made during the process of escaping capture or in helping a slave escape bondage, and Escape Artist is always a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Freedom Fighter",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"Halfling race",
+    "PFS_Legal":"",
+    "Description":"Your family has long waged war against tyranny and you learned a great deal about guerilla warfare in your youth. You gain a +1 trait bonus on Stealth checks and a +1 trait bonus on attack rolls made during the surprise round.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Frostborn",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Lands of the Linnorm Kings)",
+    "PFS_Legal":"",
+    "Description":"Long nights in the frigid winters of the north have inured you to cold. You gain a +4 trait bonus on any savings throws made to resist the effects of cold environments, as well as a +1 trait bonus on all saving throws against cold effects.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Genie Blood",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (Keleshite subrace)",
+    "PFS_Legal":"",
+    "Description":"One of your ancestors was genie-kind. Select an element (air, earth, fire, or water). You gain a +1 trait bonus on saving throws against attacks that utilize that element (cold for air, acid for earth, fire for fire, and electricity for water), and gain a +1 trait bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks made against creatures of that subtype.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Genie-Caller",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"Your exploration of the magic for calling genies has increased your overall aptitude for summoning creatures. Once per day, you may cast one conjuration (summoning) spell as if your caster level were 2 higher than normal.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Ghost Sight",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You receive a +2 trait bonus to Perception checks when trying to locate undead, and can attempt to locate ethereal undead (though they are still considered merely invisible, +20 to Stealth).",
+    "Source":"Wayfinder",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Gifted Adept",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your interest in magic was inspired by witnessing a spell being cast in a particularly dramatic method, perhaps even one that affected you physically or spiritually. This early exposure to magic has made it easier for you to work similar magic on your own. Pick one spell when you choose this trait���from this point on, whenever you cast that spell, its effects manifest at +1 caster level.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Gifted Adept",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your interest in magic was inspired by witnessing a spell being cast in a particularly dramatic method, perhaps even one that affected you physically or spiritually. This early exposure to magic has made it easier for you to work similar magic on your own. Pick one spell when you choose this trait̢��۝from this point on, whenever you cast that spell, its effects manifest at +1 caster level.",
+    "Source":"P:CTWE",
+    "Version":""
+  },
+  {
+    "Name":"Glory of Old",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Five Kings Mountains)",
+    "PFS_Legal":"",
+    "Description":"In your veins flows the blood of dwarven heroes from Tar Taargadth. You receive a +1 trait bonus on saving throws against spells, spell-like abilities, and poison.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Gnoll Killer ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You grew up in rural Katapesh, in a region where gnoll activity was a fact of life. You killed your first gnoll at a young age when a group of gnoll slavers attacked your village, home, or caravan, and your hatred of gnolls has only grown since then. Something in your past fueled your hatred of gnolls even further��� perhaps your family was slaughtered by gnolls, or maybe you even served a few harrowing weeks as a prisoner of a gnoll tribe before a miraculous escape. When you heard that Garavel was looking for brave men and women to aid in retaking the village of Kelmarane from a tribe of gnolls in the service of the notorious Carrion King, you knew you had to be part of the group, and signed up immediately. You gain a +1 trait bonus on attack rolls and weapon damage rolls made against gnolls. If you are a barbarian and you�۪re fighting gnolls, your rage lasts 1 round longer than normal. If you�۪re a ranger and you select humanoid (gnoll) as a favored enemy, your trait bonus on attack rolls and weapon damage rolls against gnolls increases to +2. If you�۪re a spellcaster, you gain a +1 trait bonus to spell save DCs for damaging spells against gnolls.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Goldfinger",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your  family  comes  from  a  long,  proud tradition of housebreaking and thievery. You are a strong part of that tradition. You gain a +1 trait bonus on Disable Device and Sleight of Hand checks, and one of these skills (your choice) becomes a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Goldsniffer",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"Your keen senses lead you to hidden treasures. You gain a +2 trait bonus on Perception checks related to metals, jewels, and gemstones.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Greasy Palm",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You know how to get people to do what you want with little effort. When bribing an NPC, you pay 10% less than a character without this trait would, garnering the same results.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Grounded",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You are well balanced, both physically and mentally. You gain a +2 trait bonus on balance-related Acrobatics checks, and a +1 trait bonus on Reflex saves.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Guardian of the Forge",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Dwarf race (follower of Torag)",
+    "PFS_Legal":"",
+    "Description":"Torag�۪s sacred duties are to protect the faithful, take lessons from the great craftsmen and strategists of the past, and prepare against dark times. You receive a +1 trait bonus on Knowledge (engineering) and Knowledge (history) checks. One of these skills (your choice) is a class skill for you.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Hedge Magician",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"No",
+    "Description":"You apprenticed for a time to a craftsman who often built magic items, and he taught you many handy shortcuts and cost-saving techniques. Whenever you craft a magic item, you reduce the cost of gp required to make the item by 5%.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Heirloom Weapon",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You carry a non-masterwork simple or martial weapon that has been passed down from generation to generation in your family. When you select this trait, choose one of the following benefits: You gain proficiency with that specific weapon; You gain a +1 trait bonus on attacks of opportunity with that specific weapon; or You gain a +2 trait bonus on one kind of combat maneuver when using that specific weapon. Note: You pay the standard gp cost for the weapon.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Hellknight Ancestry",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"At least one of your parents was a Hellknight, and you see the orders as the embodiment of civic virtue. You gain a +2 trait bonus on Diplomacy checks to influence Hellknights and a +2 trait bonus on Intimidate checks to influence enemies of the Hellknights.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Historian",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (Garundi)",
+    "PFS_Legal":"",
+    "Description":"Your parents were scholars of history, whether genealogists of your own family tree, sages on the subject of ancient empires, or simply hobbyists with a deep and abiding love for the past. You gain a +1 trait bonus on Knowledge (history) checks and bardic knowledge checks, and Knowledge (history) is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"History of Heresy",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were raised with heretical views that have made it not only difficult for you to accept most religious beliefs, but you also have had to live with the fact that you or those you love were often treated as pariahs. As a result, you have turned your back on religious teachings. As long as you do not possess any levels in a class that grants divine spellcasting power, you gain a +1 trait bonus on all saving throws made against divine spells. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Honeyed Words",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Dwarf race (follower of Grundinnar)",
+    "PFS_Legal":"",
+    "Description":"Your tact soothes bristling tempers and cools heated blood. You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion that does not provide ongoing control and results in peaceful acts, such as calm emotions, sleep, or a suggestion to lay down arms.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Horse Lord",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your  people  are  masters  of  battling  on horseback, and you have mastered their rare skill. You gain a +2 trait bonus on Ride checks, and the Ride skill becomes a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Hunter's Blood",
+    "Type":"Social",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You earn a +1 trait bonus on Diplomacy when used to gather information, Knowledge (religion), and Survival when used for tracking when related to an undead quarry. Choose one as these as a class skill. The undead have a +1 bonus on any roll to learn about you, as your family�۪s fame precedes you.",
+    "Source":"Wayfinder",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Hunter's Eye",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your parents had you blessed by Erastil as a youth and you are a prodigy with a bow. You do not suffer a penalty for the second range increment when using a longbow or shortbow and you are always considered proficient with one of these weapons (your choice).",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"I Know a Guy",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The Sczarni are often related to each other,  and  no  matter  how  distant  the  kinship,  you know  that  you  can  rely  upon  your  extended  family  for information.  You  gain  a  +2  trait  bonus  on  Diplomacy checks made to gather information and a +1 trait bonus on Knowledge (local) skill checks.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Iadaran Illusionist",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Kyonin",
+    "PFS_Legal":"",
+    "Description":"You have lived in Iadara for so long that you are very familiar with illusions. You gain a +1 trait bonus on caster level checks with illusion spells and a +1 trait bonus on Will saves to disbelieve illusions.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Impressive Presence",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your grandiose sense of style often makes it difficult for anyone to be around you. Once per day as a full-round action, you may attempt to distract adjacent foes with a lengthy display of your martial prowess. All adjacent foes must succeed on a Will save (DC 10 + 1/2 your level + your Charisma modifier) or gain the shaken condition. This condition persists for one round.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Improvisational Equipment",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have an uncanny knack for turning equipment to new and unexpected uses.  When using an item for anything other than its intended purpose���such as using a crowbar as a grappling hook or an old shirt to bandage a deadly wound���reduce the improvisation penalty by 2. This does not apply to improvised weapon penalties. Your GM may rule that some things are just not suitable for use in certain ways; for example, gluing a dead orc�۪s face to your own face won�۪t help you disguise yourself as an orc.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Indomitable",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your strong, self-determined swagger has made you more resistant to domination and control. You gain a +1 trait bonus on saving throws versus enchantment spells and effects. ",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Indomitable Faith",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were born in a region where your faith was not popular, yet you never abandoned it. Your constant struggle to maintain your own faith has bolstered your drive; you gain a +1 trait bonus on Will saves as a result.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Infernal Bastard ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You are a tiefling. You might be an escaped slave, a hidden shame, or a homeless vagabond, but whatever your upbringing, life has been particularly hard on you. You have suffered greatly, nearly starving to death one winter, nearly being beaten to death by racist sailors one summer, and so on. Whether or not these experiences have made you a bitter and cynical scoundrel or a pious and hopeful optimist is up to you, but one thing is certain���you are something less than even your tiefling kin. Perhaps it is a result of your hard life, or perhaps it is due to some fault in your fiendish heritage, but you lack a tiefling�۪s standard resistances to cold, electricity, and fire���instead, you merely have a +2 bonus on all saving throws made against these effects. Likewise, you do not have the ability to use darkness as a spell-like ability once per day���instead, you may choose any one 0-level spell that you can instead use at will as a spell-like ability.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Infernal Influence",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (from Cheliax)",
+    "PFS_Legal":"",
+    "Description":"Your family boasts secret diabolical ties that may go back much further than the Thrune regime, and much deeper. You gain fire resistance 1 and a +1 trait bonus on Fortitude saves against poison.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Insider Knowledge",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Venture-Captain  Valsin  likes  to keep abreast of situations within the Pathfinder Society, and  you  do  your  best  to  emulate  him.  Choose  either Diplomacy or Knowledge (local). You gain a +1 trait bonus on all related checks, and the chosen skill is always a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Into Enemy Territory",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The shadow in the sky is visible from all around Riddleport, not just in town. It�۪s certainly come to the attention of several druids, rangers, and other rural folk who dwell in the nearby mountains, forests, and swamps���among them, yourself. You�۪ve consulted with several seers and Harrowers, and may even have performed some simple auguries yourself, and all the signs point the same way���something or someone in Riddleport is connected to the blot, and it means bad news for the region. You�۪ve avoided the sleazy, dirty town for most of your life, traveling there only when absolutely necessary, and although you don�۪t relish the prospect of going there now, you see little other choice (especially if one of your superiors is ordering you to go investigate). Fortunately, an eccentric friend of yours (pick another PC) is in town, and you�۪ve heard this friend will be taking part in some gambling thing at a place called the Gold Goblin. Your friend�۪s always had better luck interacting with the cityfolk, so you�۪ve decided to accompany your friend to this gambling tournament and plan on letting him find a safe place for you to stay while you�۪re in town. Your long life of self-sustenance has toughened you and made you more resistant to hardship. Pick one of the three categories of saving throw. You gain a +1 trait bonus on all saving throws of that type.",
+    "Source":"PCo:SD",
+    "Version":""
+  },
+  {
+    "Name":"Iron Liver",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Due to a lucky constitution or frequent exposure, your body is resistant to poison, including alcohol and drugs. You gain a +2 trait bonus on Fortitude saves against poison and drugs, and a +4 trait bonus on Fortitude saves to avoid the effects of alcohol.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Issan",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were raised northern Brevoy, a land of misty shores and harsh hill lands, of snowy vistas and violet-hued mountains. You are descended from an able and intelligent people, and you have grand ambitions, a mind alert for opportunity, and the tenacity to fight for your goals no matter the challenge. You care for little more than achieving your aspirations and opportunities to win wealthy and grandeur, for which few costs prove too great. You see yourself as a citizen of Brevoy through and through. The call for champions willing to help take back your country�۪s rightful holdings in the Stolen Lands has inflamed your dreams of profit and possibilities, so you have joined an expedition to quest south. Your agile mind grants you a +1 trait bonus on all Will saves made to resist mind-affecting effects.",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Keeper of the Veil",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"Even when not cloaked in magic, your training has taught you how to conceal your true nature. You gain a +1 competence bonus on Bluff and Disguise checks, and one of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Keleshite Princess",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have been raised to expect obedience from those around you, regardless of their station, and are not shy about demanding what you want. You gain a +1 trait bonus to Diplomacy and Intimidate checks, and one of these skills (your choice) is always a class skill for you. ",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Killer",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You made your first kill at a very young age and found the task of war or murder to your liking. You either take particular pride in a well-placed blow, or vile pleasure in such a strike as you twist the blade to maximize the pain. You deal additional damage equal to your weapon�۪s critical hit modifier when you score a successful critical hit with a weapon; this additional damage is added to the final total, and is not multiplied by the critical hit multiple itself. This extra damage is a trait bonus. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Kobold's Neighbor",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Andoran",
+    "PFS_Legal":"",
+    "Description":"You grew up in wilderness where kobolds make their homes. You learned early on how to find traps before they find you, how to disable them, and when you should just walk away. You gain a +2 trait bonus to Perception checks to discover traps and a +1 trait bonus to Disable Device checks.",
+    "Source":"PCo:ASoL",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Kyonin Gatekeeper ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Kyonin",
+    "PFS_Legal":"No",
+    "Description":"You helped maintain the elf gates and are familiar with the operation of teleportation magic. You gain a +1 trait bonus on Spellcraft checks to identify teleportation magic and a +1 trait bonus to caster level checks when casting teleportation spells. You know the proper commands to operate a particular elf gate (most likely an often used elf gate, but at the GM�۪s discretion it may be a less popular or out-of-the-way elf gate).",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Lapsed Faith ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Elf",
+    "PFS_Legal":"No",
+    "Description":"You still remember a few prayers from your past experience serving in a temple. Once per day you may cast stabilize as a spell-like ability at caster level 1. The save DC is Wisdom-based.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Latent Psion",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (from Vudra)",
+    "PFS_Legal":"",
+    "Description":"The power to affect the world with the mind is very much a reality in your distant homeland. Although you may not even have been born in Vudra, this power remains potent in your mind as well and protects you from mental assault. You gain a +2 trait bonus on saves against mindaffecting effects.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Left Behind ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Mwangi Expanse or Varisia",
+    "PFS_Legal":"",
+    "Description":"Having been born to those who chose to remain on Golarion during the Age of Darkness in the Mwangi Expanse, you understand the people of this world better than most elves. You gain a +1 trait bonus on Diplomacy and Gather Information checks when interacting with Forlorn elves and non-elf races.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Legacy of Sand",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Half-orc race",
+    "PFS_Legal":"",
+    "Description":"A large tribe of orcs adapted to life in the desert once dwelt in southeastern Katapesh. Although this tribe is long extinct, some half-orcs of Katapesh carry the traits of this tribe in their particularly large jaws, broad shoulders, and shockingly pale eyes. You often have dreams of hunts and strange ceremonies held under moonlight in the desert sands. Some ascribe these dreams to racial memory, others to visions or prophecies. These dreams have instilled in you a fierce sense of tradition. You gain a +1 trait bonus on all Will saving throws.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Looking for Work",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Although out of work, you aren�۪t particularly keen on the prospect of gambling away your last remaining coins simply for a chance at riches. That said, if the Gold Goblin�۪s fortunes reverse after this big gambling tournament, you�۪re relatively certain its owner, Saul Vancaskerkin, will be needing to hire on some new staff members. You�۪ve secured payment for the tournament, and intend on attending mostly to check the place out, to decide if it�۪s a place you�۪d want to work at (as a bouncer, bartender, croupier, server, entertainer, spotter, or cook), and hopefully get a chance to catch Saul�۪s eye and make an impression. You�۪ve long worked at honing your skills, and are quite accomplished and certain that you have something to offer. Pick one of the following skills: Bluff, Craft (any), Diplomacy, Intimidate, Perform (any), Profession (gambler), or Perception. You gain a +1 trait bonus in that skill, and that skill is always considered a class skill for you.",
+    "Source":"PCo:SD",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Lost Nobility ",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your family was prominent before the rise of Thrune, but that legacy is now forgotten by all but you. You hold every Chelish government official (including Hellknights) personally responsible for your lost glory. You gain a +1 trait bonus on attack and damage rolls against government officials of your homeland.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Love Lost (Orphaned)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The murder victim was your only surviving parent. You had to grow up fast to take care of your siblings or to handle your family�۪s matters and were forced from an early age to support yourself. You gain a +2 bonus on one of the following skills: Craft, Perform, or Profession.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Love Lost (Widowed)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The murder victim was a lover. With your lover�۪s death, a part of you died as well, leaving you haunted, grim, and prone to dark musings. You gain a +2 bonus on Intimidate checks.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Loyalty",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You resist attempts to dissuade you from the Decemvirate�۪s  will.  You  gain  a  +1  trait  bonus  on  saves against enchantment spells and spell-like abilities",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Magic is Life",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Nethys",
+    "PFS_Legal":"",
+    "Description":"Your faith in magic allows you to reflexively use the energy of any spell effect on you to save you from death. As long as you are under the effects of any spell, you gain a +2 trait bonus on saving throws against death effects. If you are reduced to negative hit points while you are under the effects of any spell, you automatically confirm stabilization checks to stop bleeding.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Magical Knack",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"No",
+    "Description":"You were raised, either wholly or in part, by a magical creature, either after it found you abandoned in the woods or because your parents often left you in the care of a magical minion. This constant exposure to magic has made its mysteries easy for you to understand, even when you turn your mind to other devotions and tasks. Pick a class when you gain this trait���your caster level in that class gains a +2 trait bonus as long as this bonus doesn�۪t increase your caster level higher than your current Hit Dice.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Magical Lineage",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"One of your parents was a gifted spellcaster who not only used metamagic often, but developed many magical items and perhaps even a new spell or two���and you have inherited a fragment of this greatness. Pick one spell when you choose this trait. When you apply metamagic feats to this spell, treat its actual level as 1 lower for determining the spell�۪s final adjusted level.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Magical Talent",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Either from inborn talent, whimsy of the gods, or obsessive study of strange tomes, you have mastered the use of a cantrip. Choose a 0-level spell. You may cast that spell once per day as a spell-like ability. This spell-like ability is cast at your highest caster level gained; if you have no caster level, it functions at CL 1st. The spell-like ability�۪s save DC is Charisma-based.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Master of Pentacles",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your many years spent studying the art of summoning has given you a unique knowledge of these subtle and complicated arts. Once per day, when casting a spell of the Conjuration school, you are at +2 caster level when determining the duration of the spell.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Masterful Demeanor",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (from Cheliax)",
+    "PFS_Legal":"",
+    "Description":"As a proud Chelaxian, you are confident that members of other, inferior races will obey you, and quickly. You gain a +3 trait bonus on Intimidate checks against members of non-human humanoid races.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Mathematical Prodigy",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Mathematics has always come easily for you, and you have always been able to ���see the math�۝ in the physical and magical world. You gain a +1 bonus on Knowledge (arcana) and Knowledge (engineering) checks, and one of these skills (your choice) is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Medic",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":" Your experience caring for wounded Pathfinder agents has granted you a +2 trait bonus on Heal checks made  to  treat  diseases  and  poisons.  Additionally,  your caster level is considered one higher when casting spells of the healing subschool with remove in the spell�۪s name.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Merchant of Katheer",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"You grew up among the market stalls of the greatest trading post in all the world, and can almost smell the value of an item before you touch it. You gain a +1 trait bonus to Appraise checks, and Appraise is always a class skill for you.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Merchant�۪s Child",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"One of your close relatives was a gifted merchant, and taught you early in life how to see the innate value in any object. You gain a +1 trait bonus on Appraise checks, and Appraise is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Meridian Strike",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Energy flows through channels in the body, like rivers through the land. Once per day when you roll damage on a successful critical hit, reroll any 1s and take the new roll (even if it is another 1).",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Meticulous Artisian",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"A  well-carved  statuette, the smooth  stitching  on  a  fine  coat,  the  keen  edge  on  a blade���you know how to craft masterpieces. You gain a +1 trait bonus on Craft checks.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Militant Merchant ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"You know what it takes to get your goods to market and will stop at nothing to protect your products. Years of fending off thieves, cutthroats, and brigands have given you a sixth sense when it comes to danger. You gain a +1 trait bonus to Perception checks made to determine surprise, and Perception is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Militia Veteran ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"Your first job was serving in a civilian militia in your home town. Skills learned while daily drilling and protecting your fellow townsfolk gave you special insight into military life. Select one of the following skills: Profession (soldier), Ride, or Survival. You gain a +2 trait bonus on that skill, and it is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Mind Over Matter",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":" Whether from the pages of a dusty scroll or at the feet of a master, you have learned to set your mind to adapt to the physical realm. You gain a +1 trait bonus on Will saving throws.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Missing Child (Sibling)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The missing child is a brother or sister. Although everyone else has given up hope, you believe your sibling still lives out there. Your constant search for the missing sibling has developed into great skill at rumor mongering and finding information from others. Diplomacy (gather information) and Sense Motive are always class skills for you.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Missing Child (Son or Daughter)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The missing child is your own son or daughter, a niece or nephew, or the son or daughter of your superior or employer and one you had been charged with protecting. The child was abducted during a trip to the market or some other daily event. Long hours spent searching for rumors and your stubborn will to continue aid you in your efforts. You gain a +1 bonus on Will saves.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Missionary ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve spent much of the last several years serving your faith, and the conviction and dedication to your church has impressed many. Perhaps you�۪ve donated much of your personal wealth or time to serving the church, or you�۪re the child of a powerful or well-loved member of the church, an orphan raised by the church, or a foundling with a strange birthmark that bears more than a passing resemblance to your faith�۪s holy symbol. The faith has long supported you, and you are eager to repay the church in some way. In Katapesh, the establishment of a new village is always cause for interest to the nation�۪s churches, as establishing new temples in villages is an excellent way to expand upon the church�۪s resources and bring in more faithful. If the Pactmasters�۪ plans to revitalize and rebuild Kelmarane are successful, the village will need a temple, and your faith is keenly interested in being represented there. This campaign trait is particularly suited to worshipers of Sarenrae, as Kelmarane was founded near an old monastery dedicated to the Dawnflower, and reconsecrating that monastery is of great interest to Sarenrae�۪s church. Furthermore, a temple dedicated to her once stood in Kelmarane itself, but it has long since fallen into ruin; whispers among the religion tell that the church�۪s old pastor may have fallen from grace and may even have been part of the cause of the hard times that befell the village. You�۪ve joined Garavel�۪s band in hopes of helping to establish a new temple in the soon-to-be revitalized village. You�۪ve been selected for your dedication to the church and your strong social graces. Pick one of the following skills: Bluff, Diplomacy, Intimidate, Knowledge (religion), Perform (any), or Sense Motive. You gain a +1 trait bonus on checks using that skill, and it is always considered a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Mordant Heritage ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Mordant Spire",
+    "PFS_Legal":"",
+    "Description":"You lived among the Mordant Spire elves and know their strange ways. You gain a +1 trait bonus on Swim checks and a +1 trait bonus on saving throws against enchantment effects.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Mummy-Touched",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"As a small child you survived the damning curse of a mummy. You gain a +2 trait bonus on saving throws versus diseases and curses.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Narrows Survivor ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"You spent your childhood in the infamous Narrows district of Oppara. Years of living in violent squalor have sharpened your senses and given you an ardent distrust of humanity. You gain a +1 trait bonus to Initiative and Sense Motive checks. Sense Motive is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Natural-Born Leader",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"No",
+    "Description":"You've always found yourself in positions where others look up to you as a leader, and you can distinctly remember an event from your early childhood where you led several other children to accomplish a goal that each of you individually could not. All cohorts, followers, or summoned creatures under your leadership gain a +1 morale bonus on Will saves to avoid mind-affecting effects. If you ever take the Leadership feat, you gain a +1 trait bonus to your Leadership score.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Naturally Gifted",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Yes",
+    "Description":"For unknown reasons, you have deeper reserves of magical energy than those around you. Perhaps you are descended from a family of powerful arcane casters, or maybe you believe this trait marks you as destined for magical greatness. Wherever the truth lies, you gain an additional use of one of your gnome magic spell-like abilities each day. This does not always have to be the same spell-like ability���one day you might use dancing lights twice, only to use the additional casting for speak with animals the next day.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Nightstall Urchin",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You grew up an orphan on the streets of Katapesh, and spent many years of childhood in the Nightstalls, Katapesh�۪s most infamous market. The strange and often horrific sights you saw there forced you to grow up fast���there�۪s little that can shock or unsettle you. You gain a +2 trait bonus on saves against fear effects, and when you do make a successful save against a fear effect, the resulting rush of bravado grants you a +1 trait bonus on attack rolls and all skill checks for the next minute.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Noble Born (Garess)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You claim a tangential but legitimate connection to one of Brevoy�۪s noble families. If you aren�۪t human, you were likely adopted by one of Brevoy�۪s nobles or were instead a favored servant or even a childhood friend of a noble scion. Whatever the cause, you�۪ve had a comfortable life, but one far from the dignity and decadence your distant cousins know. Although you are associated with an esteemed name, your immediate family is hardly well to do, and you�۪ve found your name to be more of a burden to you than a boon in many social situations. You�۪ve recently decided to test yourself, to see if you can face the world without the aegis of a name you have little real claim or care for. An expedition into the storied Stolen Lands seems like just the test to see if you really are worth the title ���noble.�۝ Your family�۪s long association with the dwarves of the Golushkin Mountains has left its mark. You ignore the movement penalty for the first 5 feet of rocky difficult terrain you move through per round. This applies only to terrain made difficult by rocks or ruins.  Your family motto is ���Strong as the Mountains.�۝ You gain a +2 trait bonus on Appraise checks to assess the value of natural stones or metals.",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Noble Born (Lebeda)",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You claim a tangential but legitimate connection to one of Brevoy�۪s noble families. If you aren�۪t human, you were likely adopted by one of Brevoy�۪s nobles or were instead a favored servant or even a childhood friend of a noble scion. Whatever the cause, you�۪ve had a comfortable life, but one far from the dignity and decadence your distant cousins know. Although you are associated with an esteemed name, your immediate family is hardly well to do, and you�۪ve found your name to be more of a burden to you than a boon in many social situations. You�۪ve recently decided to test yourself, to see if you can face the world without the aegis of a name you have little real claim or care for. An expedition into the storied Stolen Lands seems like just the test to see if you really are worth the title ���noble.�۝ Your family�۪s long association with the dwarves of the Golushkin Mountains has left its mark. You ignore the movement penalty for the first 5 feet of rocky difficult terrain you move through per round. This applies only to terrain made difficult by rocks or ruins.  Your family�۪s history of trading along the shores of Lake Reykal pervades your blood.  Your family motto is ���Success through Grace.�۝ You gain a bonus language: Dwarven, Elven, Hallit, Gnome, Giant, Halfling, Skald, or Sylvan.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Noble Born (Lodovka)",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You claim a tangential but legitimate connection to one of Brevoy�۪s noble families. If you aren�۪t human, you were likely adopted by one of Brevoy�۪s nobles or were instead a favored servant or even a childhood friend of a noble scion. Whatever the cause, you�۪ve had a comfortable life, but one far from the dignity and decadence your distant cousins know. Although you are associated with an esteemed name, your immediate family is hardly well to do, and you�۪ve found your name to be more of a burden to you than a boon in many social situations. You�۪ve recently decided to test yourself, to see if you can face the world without the aegis of a name you have little real claim or care for. An expedition into the storied Stolen Lands seems like just the test to see if you really are worth the title ���noble.�۝ Your family has made a living off the coasts of the Lake of Mists and Veils since before Brevoy existed.  Your family motto is ���The Waters, Our Fields.�۝ You gain a +1 trait bonus on Swim checks, and Swim is always treated as a class skill for you.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Noble Born (Medvyed)",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You claim a tangential but legitimate connection to one of Brevoy�۪s noble families. If you aren�۪t human, you were likely adopted by one of Brevoy�۪s nobles or were instead a favored servant or even a childhood friend of a noble scion. Whatever the cause, you�۪ve had a comfortable life, but one far from the dignity and decadence your distant cousins know. Although you are associated with an esteemed name, your immediate family is hardly well to do, and you�۪ve found your name to be more of a burden to you than a boon in many social situations. You�۪ve recently decided to test yourself, to see if you can face the world without the aegis of a name you have little real claim or care for. An expedition into the storied Stolen Lands seems like just the test to see if you really are worth the title ���noble.�۝ Your family has long a deep respect for the wilderness and is superstitious about the creatures that dwell therein.  Your family motto is ���Endurance Overcomes All.�۝ You gain a +2 trait bonus on all Diplomacy checks made to deal with fey creatures and a +1 trait bonus on Will saves made against their spells and supernatural abilities.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Noble Born (Orlovsky)",
+    "Type":"",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You claim a tangential but legitimate connection to one of Brevoy�۪s noble families. If you aren�۪t human, you were likely adopted by one of Brevoy�۪s nobles or were instead a favored servant or even a childhood friend of a noble scion. Whatever the cause, you�۪ve had a comfortable life, but one far from the dignity and decadence your distant cousins know. Although you are associated with an esteemed name, your immediate family is hardly well to do, and you�۪ve found your name to be more of a burden to you than a boon in many social situations. You�۪ve recently decided to test yourself, to see if you can face the world without the aegis of a name you have little real claim or care for. An expedition into the storied Stolen Lands seems like just the test to see if you really are worth the title ���noble.�۝ Your family has a reputation for avoiding conflicts. Your family motto is ���High Above.�۝ You gain a +1 trait bonus on your CMD. In addition, choose Acrobatics, Diplomacy, or Stealth���you gain a +1 trait bonus on this skill.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Noble Born (Surtova)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You claim a tangential but legitimate connection to one of Brevoy�۪s noble families. If you aren�۪t human, you were likely adopted by one of Brevoy�۪s nobles or were instead a favored servant or even a childhood friend of a noble scion. Whatever the cause, you�۪ve had a comfortable life, but one far from the dignity and decadence your distant cousins know. Although you are associated with an esteemed name, your immediate family is hardly well to do, and you�۪ve found your name to be more of a burden to you than a boon in many social situations. You�۪ve recently decided to test yourself, to see if you can face the world without the aegis of a name you have little real claim or care for. An expedition into the storied Stolen Lands seems like just the test to see if you really are worth the title ���noble.�۝ Your family is well known for their political agility and scheming natures. Your family motto is ���Ours is the Right.�۝ You deal +2 damage when attacking a flat-footed opponent while wielding a light or one-handed weapon.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Nonchalant Thuggery ",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You are adept at keeping witnesses from noticing that anything is wrong. You gain a +4 trait bonus on Bluff checks to keep others from noticing your aggressive actions.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Observant",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Sometimes it helps to pay attention to your surroundings  and  the  people  you  meet.  Choose  either Perception or Sense Motive. You gain a +1 trait bonus on all related checks, and the chosen skill is always a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Optimistic Gambler",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve always seemed to have trouble keeping money. Worse, you always seem to have debts looming over your head. When you heard about the ���Cheat the Devil and Take His Gold�۝ gambling tournament, you felt in your gut that your luck was about to change. You�۪ve always been optimistic, in fact, and even though right now is one of those rare times where you don�۪t owe anyone any money (you just paid off a recent loan from local moneylender Lymas Smeed), you know that�۪ll change soon enough. Better to start amassing money now when you�۪re at one of those rare windfall times! You�۪ve set aside a gold coin for the entrance fee, and look forward to making it big���you can feel it in your bones! This time�۪s gonna be the big one! Your boundless optimism, even in the face of crushing situations, has always bolstered your spirit. Effects that grant you morale bonuses persist 1d4 rounds longer than they normally would as a result.",
+    "Source":"PCo:SD",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Outcast",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Driven from town after town because of your heritage, you have become adept at living apart from others. You gain a +1 trait bonus on Survival skill checks, and Survival is always a class skill for you.",
+    "Source":"",
+    "Version":""
+  },
+  {
+    "Name":"Patient Optimist",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Desna, Erastil",
+    "PFS_Legal":"",
+    "Description":"As a worshiper of a good and kindly god, you know that Asmodeus�۪ dominion over Cheliax will pass in time, and are used to having to repeat arguments multiple times to convince even the most stubborn believer. You gain a +2 trait bonus on Diplomacy checks to influence hostile or unfriendly creatures, and if you fail at such an attempt you may retry it once.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Performance Artist",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"As a youth, you studied in the avant garde theatre scene of Oppara. Your performance skills have been known to bring even the toughest crowd to their feet. Choose one type of Perform skill. You gain a +1 trait bonus on related Perform skill checks. This bonus increases to +5 when using that Perform skill to make money.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Perseverance",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Five Kings Mountains)",
+    "PFS_Legal":"",
+    "Description":"In time, any obstacle can be endured and overcome. When you have more than 1 Will saving throw to overcome an effect (such as greater command, hold person, or by using the good fortune ability of the Luck domain), you receive a +3 trait bonus on the extra Will saves against that effect.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Pesh Addict",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You spent several of your teenaged years addicted to pesh, a habit that you may or may not have kicked. Certainly, the habit consumed much of your savings. You start with only half of the normal starting cash as a result, but your knowledge of the pesh addict lifestyle grants you a +1 trait bonus on Bluff, Knowledge (local), and Sense Motive checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Pesh Dealer",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You worked for a pesh dealer, either by selling the drug on the street or helping to organize shipments to other regions, which involved a certain amount of smuggling. You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Pesh Drug Addict (addicted friend)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The addict is a friend or lover who might or might not have survived the overdose. Your research into the drug scene and local politics has given you a respectable education in street knowledge. You gain a +2 bonus on Knowledge (local) checks or Diplomacy (gather information) checks (choose one when selecting this trait).",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Pesh Drug Addict (personal addiction)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were the addict. You blame Gaedren for your brush with death and hate how his drugs are causing similar problems among other youths. Fortunately, your body recovers quickly from toxins, and you gain a +1 bonus on Fortitude saving throws.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Pioneer",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have long lived along the southern border of Brevoy, in the shadow of wilderness known as the Stolen Lands. Life has been hard, but through hunting, trapping, trading, and coaxing crops from the freezing earth, you�۪ve learned how to survive on the rugged frontier. With the wilderness ever at your door, you�۪ve also learned much about its denizens and the wild creatures that lurk in that unwholesome land. Your family might even claim holdings in the Stolen Lands, with elders telling stories of being driven from or robbed of a lost ancestral homestead, fertile farmlands, bountiful orchards, or a hidden mining claim. Whether because of your personal expertise and familiarity with the borderlands or in order to reclaim your family�۪s land, you�۪ve joined the expedition into the Stolen Lands. You begin play with a horse. Also, choose one of the following skills: Climb, Handle Animal, Knowledge (nature), Perception, Ride, Survival, or Swim���you gain a +1 trait bonus on this skill.",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Poverty-Stricken",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your childhood was tough, and your parents had to make every copper piece count. Hunger was your constant companion, and you often had to live off the land or sleep in the wild. You gain a +1 bonus to Survival checks, and Survival is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Power of Suggestion",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"People trust your words over their own eyes.  You may make a Bluff check to make observers believe that an object in your possession is actually a different object entirely. The DC for the check is 20 for items of a similar size, shape, and color (such as a glaive and a quarterstaff). Items of a different shape, size, or color raise the DC by 5 for each dissimilar aspect, or more if the dissimilarity is extreme. This deception lasts 1 minute; if the item is still in view, the observers may recognize their error unless you make another bluff check.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Precocious Spellcaster ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"Before you even began your training as a spellcaster, you spent a great deal of time studying cantrips and simple spells on your own. Because of this, you developed some innate magical abilities without any outside guidance. Select one cantrip and one 1st-level spell; when you cast these spells, they function at one caster level higher than your actual caster level.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Prehensile Whip",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"In your hand a whip has a life of its own, wrapping around pillars and beams with ease. You can use a whip as if it were a rope with a grappling hook at the end. Attaching your whip is a standard action, but detaching it is a full-round action.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Prismati Player",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Andoran",
+    "PFS_Legal":"",
+    "Description":"You�۪ve grown up playing the confusing game of prismati and throw stones with accuracy and ease. You gain a +1 trait bonus on attack rolls with fistsized rocks or similarly shaped objects, and a +1 trait bonus on concentration checks.",
+    "Source":"PCo:ASoL",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Proper Training",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your  time  at  the  Grand  Lodge  of Absalom has served you well. Choose either Knowledge (geography) or Knowledge (history). You gain a +1 trait bonus on all related checks, and the chosen skill is always a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Quick Learner",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪re skilled at learning the feel of a particular weapon after a few swings in combat. After your first attack with a weapon in which you are not proficient, the non-proficiency penalty decreases by 2 (to a ���2 penalty). This effect lasts only while you have the weapon in hand; you must ���relearn�۝ the weapon each time you pick it up.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Rapscallion ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Gnome (Taldor)",
+    "PFS_Legal":"",
+    "Description":"You�۪ve spent your entire life thumbing your nose at the establishment and take pride in your run-ins with the law. Somehow, despite all the mischievous behavior in your life, you�۪ve never been caught. You gain a +1 trait bonus to Escape Artist checks and a +1 trait bonus to initiative checks.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Reactionary",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were bullied often as a child, but never quite developed an offensive response. Instead, you became adept at anticipating sudden attacks and reacting to danger quickly. You gain a +2 trait bonus to Initiative checks. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Reclaiming your Roots ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your interest in the village of Kelmarane is more personal than most of the others who are heading out to aid in the reclamation. You aren�۪t seeking revenge against gnolls, glory, money, or anything else���to you, this is purely a matter of honor, as Kelmarane is where you were born. Your were forced to flee the village when you were only a few years old, and you didn�۪t discoverer this until a few years ago���perhaps you found an old document that revealed the truth, or maybe you learned the news from a relative. Both of your parents are now dead, and from what you�۪ve been able to piece together, one of your parents actually died in the village when whatever happened there happened. Your surviving parent spirited you away to safety to grow up elsewhere, but never spoke of Kelmarane and always told you that your other parent died when you were a child in a horrific tragedy like a fire or a flood that swept away the body. Now that you�۪ve started to uncover the truth, you are convinced that your heritage remains hidden in Kelmarane. Whether you just wish to find out what really happened to your parent that died there or you want to rebuild the village in his or her honor is up to you���but Garavel�۪s caravan to the village is just the opportunity you�۪ve been waiting for. When your other parent died recently, among his or her effects was a single item that once belonged to the parent who died at Kelmarane. This item is your most valued possession���a piece of jewelry worth 350 gp, any masterwork weapon or armor worth no more than 350 gp, or a wand containing any 1st-level spell (CL 1st) with only 20 charges remaining. If you ever lose this item, your resulting depression imposes a ���1 penalty on Will saves for 1 year.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Researching the Blot",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You may or may not be seeking membership into Riddleport�۪s most prestigious magical guild, the Order of Cyphers, but you certainly have heard their call for aid in determining the nature of the strange shadow in the sky above Riddleport. You arrived in town several days ago and had some issues with security and safety at several inns before you finally settled on the Gold Goblin; you�۪ve been staying there as a guest for several days now, and the owner, Saul Vancaskerkin, seems like a nice guy. He�۪s even given you a pass to attend the gambling tournament he�۪s about to throw���you�۪re not sure how into gambling you�۪ll be, but perhaps there�۪ll be some visitors from out of town you can talk to about the strange shadow in the sky. At the very least, you�۪re hoping someone at the tourney will be into magic���there�۪s not really enough folk in this town who seem all that interested in magic, you�۪ve found. Your interest in magic dates back quite far, and as a result, you�۪ve developed a knack for identifying common magical items at a glance. You can use Spellcraft to identify magic items in the same way you can use Spellcraft to identify a potion. The DC to identify a magic item is equal to 20 + the item�۪s caster level.",
+    "Source":"PCo:SD",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Resigned",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Dwarf race (Droskar)",
+    "PFS_Legal":"",
+    "Description":"Existence is little more than unending toil. By laboring unto exhaustion, greatness can be achieved. You receive a +1 trait bonus when retrying a previously failed skill check or ability check, as well as when taking 20 on skill checks and ability checks.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Resilient",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Growing up in a violent neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You�۪ve built up your mettle as a result, and gain a +1 trait bonus on Fortitude saves. ",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Resilient",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Growing up in a violent neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You̢����ve built up your mettle as a result, and gain a +1 trait bonus on Fortitude saves.",
+    "Source":"P:CTWE",
+    "Version":""
+  },
+  {
+    "Name":"Rich Parents",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"No",
+    "Description":"You were born into a rich family, perhaps even the nobility, and even though you turned to a life of adventure anyway, you enjoyed a one-time benefit to your initial finances and your starting cash increases to 900 gp.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Rider of Paresh",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"You call the Plains of Paresh home, whether you were born among the plains�۪ tribes or in the glittering towers of Katheer. The horses are your kin. When mounted and making a charge, your mount's speed is increased by 10 feet.  You must have the Mounted Combat feat to take this trait.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"River Rat ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"You learned to swim right after you learned to walk. As a youth, a gang of river pirates put you to work swimming in nighttime rivers and canals with a dagger in your teeth so you could sever the anchor ropes of merchant vessels. You gain a +1 trait bonus to damage dealt with a dagger and a +1 trait bonus to Swim checks. Swim is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Rostlander",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were raised in the south of Brevoy, a land of dense forests and rolling plains, of crystalline rivers and endless sapphire skies. You come from hearty stock and were raised with simple sensibilities of hard work winning well-deserved gains, the importance of charity and compassion, and the value of personal and familial honor. Yours is the country of the Aldori swordlords and the heroes who refused to bend before the armies of a violent conqueror. You care little for matters of politics and nobles or of deception and schemes. As you are thoroughly Brevic, the call for champions willing to expand your land�۪s influence into the Stolen Lands has inflamed your sense of patriotism and honor, and so you have joined an expedition to quest southward. Your hardy nature grants you a +1 trait bonus on all Fortitude saves.",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Rough and Ready",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your intense familiarity with the tools of your trade allows you to use them in combat as if they were actual weapons and makes them more effective for that purpose than they would normally be. When you use a tool of your trade (requiring at least 1 rank in the appropriate Craft or Profession skill) as a weapon, you do not take the improvised weapon penalty and instead receive a +1 trait bonus on your attack. This trait is commonly used with shovels, picks, blacksmith hammers, and other sturdy tools ��� lutes and brooms make terribly fragile weapons.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Ruthless",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You never hesitate to strike a killing blow. You gain a +1 trait bonus on attack rolls to confirm critical hits.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Sacred Avenger ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Calistria",
+    "PFS_Legal":"",
+    "Description":"You have a special connection between you and Calistria that enhances your ability to achieve vengeance. When a creature damages you with a weapon, on your next turn you gain a +1 trait bonus on weapon damage against that creature. If this creature is your ilduliel (see page 8), this bonus increases to +2.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Sacred Conduit",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your birth was particularly painful and difficult for your mother, who needed potent divine magic to ensure you survived; your mother may or may not have survived. In any event, the magic infused you from an early age, and you now channel divine energy with greater ease than most. Whenever you channel energy, you gain a +1 trait bonus to the save DC of your channeled energy.",
+    "Source":"APG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Sacred Touch",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You were exposed to a potent source of positive energy as a child, perhaps by being born under the right cosmic sign, or maybe because one of your parents was a gifted healer. As a standard action, you may automatically stabilize a dying creature merely by touching it.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Savannah Child",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You were born and raised in central Katapesh, among the rolling savannahs that dominate the nation�۪s interior. You spent many of your youth exploring these vast reaches, and know much of the savannah�۪s secrets. Pick one of the following skills: Handle Animal, Knowledge (nature), or Ride. You gain a +1 trait bonus on that skill, and it is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Scholar of Ruins ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"From the moment you could walk and talk, the ruins of Taldor fascinated you. You joined every expedition you could find, volunteered as a porter for the Pathfinder Society, and sometimes just set out on your own to explore as many of the Taldan ruins as you could. Because of this, you have special insight into the geography of Taldor as well as expertise at exploring lost places. You gain a +1 trait bonus to Knowledge (geography) and Knowledge (dungeoneering) checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Scholar of the Great Beyond",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your great interests as a child did not lie with current events or the mundane��� you have always felt out of place, as if you were born in the wrong era. You take to philosophical discussions of the Great Beyond and of historical events with ease. You gain a +1 trait bonus on Knowledge (history) and Knowledge (planes) checks, and one of these skills (your choice) is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Scouting for Fiends",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You belong to an organization (most likely a religion) that has definite views on the menace posed by the lower planes. The willfulness with which the city of Korvosa (they even allow a temple of Asmodeus to operate in broad daylight!) tolerates infernal influences is, to you and your organization, the greatest symbol of what�۪s wrong with civilization today. And now, in Riddleport, there�۪s news that a gambling tournament is using devils and Hell as an idle decoration. It�۪s likely that this is just an example of poor taste, but there�۪s a chance that something sinister may be lurking beneath the goings-on at the Gold Goblin. You have been contacted by your organization (or may have decided on your own) to travel to Riddleport (if you don�۪t already live there) and attend this tournament under the guise of a patron. Keep an eye on things there, even after the tournament is over; if you can, get a job working for the owner. Demons and devils can be subtle, and it could take weeks or even months to find proof of their involvement. You gain a +1 trait bonus on all attack rolls made against foes you know to be evil outsiders.",
+    "Source":"PCo:SD",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Secrets of the Sphinx",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your ancestors paid the proper obeisance  to  Nethys,  who  granted  their  heirs  special divinatory gifts. Once per day, you may gain a +2 trait bonus on any single Knowledge skill check. Additionally, choose one Knowledge skill���this skill becomes a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Seeker of Brightness ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Elf",
+    "PFS_Legal":"",
+    "Description":"You have been actively searching for signs of the Brightness since childhood. Choose a Knowledge skill; you gain a +1 trait bonus on Knowledge checks of that type and on Search checks.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Seeking Adventure ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The Pathfinder Society has long intrigued you���tales of the exotic lands and strange discoveries made by Pathfinders have enchanted your dreams and fired your imagination since childhood. When Pathfinders came through your village or neighborhood, they immediately enthralled you with their stories and knowledge. Yet at the time, you were far too young to join them, and when they left for adventure you had to stay behind. Now that you are of age, you�۪ve traveled to Absalom to apply for membership. The application process went well, and you�۪re now a full member. Your first assignment is to accompany Garavel�۪s group to Kelmarane���the Pathfinder Society has heard rumors of several ancient structures in the area, including a ruined monastery once dedicated to Sarenrae, and would like to learn more about them. Even more pressing is the mystery of what brought about Kelmarane�۪s ruin in the first place���reports of which are vague at best. If you can determine the cause of the village�۪s abandonment so many years ago, you�۪re sure the Society would be impressed. You begin the game with your own wayfinder, a loan from your venture-captain. You�۪ve promised to pay your venture-captain 500 gp for the wayfinder some day, but for now it�۪s yours to use. A wayfinder is a magical compass that grants you a +2 circumstance bonus on Survival checks to avoid becoming lost, and can be commanded to emit light as the spell (CL 5th) as a standard action.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Shadow Child ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Westcrown has long suffered under a peculiar curse, a blight that rises every night, bringing with it fell beasts that hunt the shadows. No one can say from whence these night-horrors come���though some blame the mysterious wizards of Nidal, other claim that it�۪s some curse laid by fallen Aroden, while still others suggest some shadowy mastermind manipulates an ebon brood from the depths of Westcrown�۪s northern ruins. Whatever the case, the people of Westcrown have long feared the night, but not you. You�۪re goal is to reclaim the darkness from the beasts that hide within. You�۪ve acclimated yourself to the dark, and thus act with greater precision in the shadow than most. When attacking targets in areas of dim light, you do not suffer the standard 20% miss chance on attack rolls for being in the poorly lit area.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Shadow Diplomat",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Balancing the political infighting of the Society�۪s factions has granted you a +1 trait bonus on  Diplomacy  checks,  and  Diplomacy  becomes  a  class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Shiv",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":" Sometimes  smooth  talking  just  doesn�۪t  work. You gain a +1 trait bonus on damage rolls made with one-handed piercing or slashing weapons in a surprise round.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Skeptic",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Growing up, you were always around magical effects to the extent that you realized that much of it was smoke and mirrors. You gain a +2 trait bonus on all saving throws against illusions.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Soul-Drinker",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"There is a dark hunger in you that rejoices when you or your allies slay a foe. Once per day as a swift action, you may gain a number of temporary hit points equal to the Hit Dice of your most recent enemy slain. This is a supernatural ability. These temporary hit points last for 1 minute.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Sovyrian Pantheist ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of any Elven Deity",
+    "PFS_Legal":"",
+    "Description":"Strongly influenced by the elves�۪ mysterious other realm, you embrace obscure elven deities that have little influence on Golarion. You gain a +1 trait bonus on Knowledge (history) checks to recognize or evaluate art, Knowledge (architecture and engineering) checks, Survival checks to hunt game, Constitution checks to run, and Spellcraft checks involving crystals or gems.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Spirits in the Stone",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (Mwangi)",
+    "PFS_Legal":"",
+    "Description":"You have an almost instinctive ability to sense danger and peril in ruined structures. Whenever you�۪re in ruins, you gain a +2 trait bonus on Initiative checks and a +1 trait bonus on saving throws against traps and natural hazards.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Sprint",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Yes",
+    "Description":"You were taught from a young age that the world is full of big, fast, dangerous foes, and that sometimes the best course of action is to put your head down and run. Your parents taught you how to make the most of a solid mid-length sprint and how to squeeze just a little extra speed out of yourself. If you do nothing but move in a turn (that is, if you run or use both of your actions in a round to move your speed) and you are in no armor or light armor, you may move an extra 5 feet.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Stage Magic",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have put in many hours practicing with flashy alchemical items that enhance your performances. When you use an attention-getting alchemical item such as a flask of alchemist�۪s fire, smokestick, thunderstone, or another appropriate alchemical item (GM�۪s discretion) as part of a performance, you gain a +2 trait bonus on your Perform check for the duration of that performance. The item is expended without its normal effects and only serves to make your performance more impressive; for example, you could pretend to ignite yourself with alchemist�۪s fire as part of a Perform (comedy) check or make a dramatic appearance with a smokestick as part of a Perform (act) check, but you would not actually take fire damage or gain concealment from smoke.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Starchild ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Desna",
+    "PFS_Legal":"",
+    "Description":"The Song of the Spheres sensed your love of travel and promised you would always be able to find your way home. You can automatically determine where true north is. You gain a +4 trait bonus on Survival checks to avoid becoming lost.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Stealthy Escape",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You are adept at escaping from confinement in an unobtrusive manner. When trying to escape manacles, rope, or other similar restraints (but not grapples or similar attacks), you may make a Sleight of Hand check instead of your Escape Artist modifier. If you free yourself, you gain a +2 trait bonus on Bluff checks to pretend that you are still bound.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Storyteller",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"The long travels between the Inner Sea and Tian Xia have exposed you to a wide variety of campfire tales.  Once  per  scenario,  you  can  make  a  Knowledge skill check with a trait bonus equal to your Intelligence modifier plus 3 (minimum +1). You can make this check even if you do not have ranks in the required Knowledge skill.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Strength of the Land",
+    "Type":"Magic",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You are able to tap into the living energy of the world to shatter lesser magic. You gain a +1 trait bonus on caster level checks while touching the ground or unworked stone. This includes dispel checks and checks to overcome spell resistance. ",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Strength of the Sun",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Sarenrae",
+    "PFS_Legal":"",
+    "Description":"You take solace in the purifying light of the sun. During the day, you gain a +1 trait bonus on all Charisma-based checks.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Strong Arm, Supple Wrist",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have been trained in the javelin and the spear, and know how to make the best use of your momentum. Whenever you move at least 10 feet before making an attack with a thrown weapon, you add 10 feet to the range increment of the weapon thrown. You can only gain this benefit once per round.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Successful Shirker",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Halfling race",
+    "PFS_Legal":"",
+    "Description":"Born and raised a slave with no hope of advancement, you are adept at avoiding your overseer's ire and attention, the better to spend time on your own interests. You gain a +1 trait bonus on Stealth checks and a +3 trait bonus on Bluff and Diplomacy checks to avoid punishment by lawful authority.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Suspicious",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You discovered at an early age that someone you trusted, perhaps an older sibling or a parent, had lied to you, and often, about something you had taken for granted, leaving you quick to question the claims of others. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you.",
+    "Source":"P:CTWE",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Sword Scion",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You have lived all your life in and around the city of Restov, growing up on tales of Baron Sirian Aldori and the exploits of your home city�۪s heroic and legendary swordlords. Perhaps one of your family members was an Aldori swordlord, you have a contact among their members, or you have dreamed since childhood of joining. Regardless, you idolize the heroes, styles, and philosophies of the Aldori and have sought to mimic their vaunted art. Before you can petition to join their ranks, however, you feel that you must test your mettle. Joining an expedition into the Stolen Lands seems like a perfect way to improve your skills and begin a legend comparable to that of Baron Aldori. You begin play with a longsword or Aldori dueling sword and gain a +1 trait bonus on all attacks and combat maneuvers made with such weapons.",
+    "Source":"PAP:KMPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Teaching Mistake",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You  know  the  consequences  of failure and strive never to make the same mistake twice. Once per scenario, when you roll a natural 1 on any saving throw,  you  gain  a  +1  trait  bonus  on  your  next  saving throw, used before the end of the scenario.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"The City Protects",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Abadar",
+    "PFS_Legal":"",
+    "Description":"You feel safe and secure in urban environments, even in cities whose laws you find unjust���it is the physical fact of the city that you take solace in. In any settlement, you gain a +2 trait bonus against fear effects. If you fail a save against a fear effect, you may make a new save each round you remain in the city to overcome the fear effect as long as the fear effect persists. If you are a paladin, this ability to make additional saves to overcome fear extends to all allies within your aura of courage.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"The Pathfinder�۪s Exile ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Westcrown�۪s dilapidated Pathfinder lodge of Delvehaven has long excited your imagination. Forcibly closed by the order of the city�۪s diabolical rulers, the Pathfinders of Westcrown were exiled, forcing them to leave behind untold knowledge and the treasures of countless expeditions. Today, Delvehaven lies under the pale of fearful rumors and dark magic, and bureaucratic red tape has prevented trespass on the lodge�۪s well-protected grounds. Having secretly and illegally contacted agents of the Pathfinders, you�۪ve expressed your interest in aiding their ventures in Cheliax���with a particular eye toward investigating Delvehaven, the source of your long-standing adventuresome interests. To your surprise, some days ago you received a message back from an unnamed Pathfinder operating underground in the country. Along with encouraging you to investigate the lodge and report your findings to the Grand Lodge in Absalom, he�۪s sent along a battered and tarnished, yet still functional wayfinder. You�۪ve promised yourself to pay back your unknown contact the 500 gp cost of the item someday, but until then, it�۪s yours to use. A wayfinder is a magical compass that grants you a +2 circumstance bonus on Survival checks to avoid becoming lost, and can be commanded to emit light as the spell (CL 5th) as a standard action. Further details on the Pathfinder Society and wayfinders can be found in the Pathfinder Campaign Setting or Pathfinder Chronicles: Seekers of Secrets.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Theoretical Magician ",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve studied more magic than what you can actually perform. You gain a +2 trait bonus on Spellcraft checks, or a +3 bonus if you aren't a spellcaster.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Threatening Defender ",
+    "Type":"Basic",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You know how to avoid a blow while still maintaining your offensive posture. When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Thrown-Together Fashion",
+    "Type":"Equipment",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You can modify old clothing to make it effective in new circumstances. With a basic sewing kit or disguise kit, you can make a Disguise check to change one outfit into another outfit (see page 159 of the Pathfinder RPG Core Rulebook, or page 13 of this book). The DC of this check is equal to 10 + the gp difference between costs of the outfits. The alteration takes 10 minutes per 1-gp difference in the cost of the outfits.",
+    "Source":"Adventurer's Armory",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Toilcrafter",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Dwarf race (Droskar)",
+    "PFS_Legal":"",
+    "Description":"You can craft passable if inferior magical weapons, armors, and shields through diligence and toil. Choose one Craft or Profession skill in which you have at least 1 rank. Ranks in your chosen skill count as your caster level for the purpose of qualifying for the Craft Magic Arms and Armor feat. You may craft +1 armor, weapons, or shields (with no special qualities), substituting your rank in the chosen skill for your caster level. You must use the chosen skill for the check to create the item. Crafting in this fashion takes twice as long as normal. These items cannot be upgraded with new abilities.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Tomb Raider",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You�۪ve spent most of your life exploring the ancient tombs and catacombs of Osirion. You gain a +1 bonus on Perception and Knowledge (dungeoneering) checks, and one of these skills (your choice) becomes a class skill for you",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Treerazer�۪s Bane ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Kyonin",
+    "PFS_Legal":"",
+    "Description":"Having fought in many battles against Treerazer and his minions, you have learned the best ways to kill the various creatures under his control. You gain a +2 trait bonus on weapon damage against demons, evil fey, and plants and animals corrupted by evil.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Trickster",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"Yes",
+    "Description":"",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Trouper",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You  cling  to  the  Varisian  traveling performer  traditions  and  can  recognize  the  magic hidden  in  song  and  dance.  You  gain  a  +1  trait  bonus on checks using a Perform skill of your choice and a +1 trait bonus on saving throws against abilities that rely upon the Perform skill to function, such as the bardic performance class ability.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Tunnel Fighter",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"Caves and tunnels are a second home to you. While underground, you receive a +2 trait bonus to initiative checks and a +1 trait bonus on weapon damage rolls for critical hits (this damage is multiplied on a critical hit).",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Under Siege ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Sarenrae",
+    "PFS_Legal":"",
+    "Description":"In order to maintain your devotion to Sarenrae in Taldor and stay alive, you and your fellow worshipers developed a complex system of hand signs and facial gestures to identify yourselves as faithful in the Cult of the Dawnflower. You gain a +1 trait bonus on Bluff and Sense Motive checks. One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Unhappy Childhood (Religious)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Gaedren tortured you and left you for dead on a garbage heap after you made one too many errors. Your scars and memories have honed your reaction speed and make you rather jumpy. You gain a +1 bonus on Reflex saves.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Unhappy Childhood (Tortured)",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You found a holy symbol of the god you worship today while on a job for Gaedren and, intrigued by it, you snuck off to attend services. When Gaedren found out, he beat you to within an inch of your life and broke your holy symbol. Your faith let you block out the pain, and you escaped his control and took shelter in the church, where you spent the rest of your youth. You gain a +2 bonus on Concentration checks.",
+    "Source":"PAP:CotCTPG",
+    "Version":""
+  },
+  {
+    "Name":"Unorthodox Strategy",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You  are  particularly quick on your feet, and gain a +2 trait bonus on Acrobatics checks made to move through an enemy�۪s threatened squares",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Uwaga Highlander",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Katapesh",
+    "PFS_Legal":"",
+    "Description":"You were born and raised in western Katapesh, in the rugged badlands and hills of the Uwaga Highlands. Even if you were born in a city like Solku, you often had to travel the dangerous trails with your family. Predators, gnolls, and worse haunt the Uwaga Highlands, and you�۪ve become something of an expert at evading them. You gain a +1 trait bonus on Stealth checks. This trait bonus increases to +2 in hilly or rocky areas.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Vagabond Child ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"You grew up among the outcasts and outlaws of your society, learning to forage and survive in an urban environment. Select one of the following skills: Disable Device or Sleight of Hand. You gain a +1 trait bonus on that skill, and it is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Venicaan Medic",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"You have studied at the College of Medicaments and Chirurgery, and know by sight the signs of ailments and toxins you might encounter. You gain a +2 trait bonus to Heal checks to treat diseases or poisons, and Heal is always a class skill for you.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Vindictive",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"Your family is prone to endless feuds and you are a people who simply do not forgive a slight easily. You receive a +1 trait bonus on damage rolls against a single adjacent opponent who damaged you in the previous round of combat.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Walking Ward",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"Your training included constant exposure to elemental forces. Choose one of the following energy types: acid, cold, electricity, or fire; you gain a +1 bonus on saving throws against spells that deal damage of this type or have this subtype.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Warrior of Old ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Elf",
+    "PFS_Legal":"",
+    "Description":"As a child, you put in long hours in combat drills, and though time has made this training a dim memory, you still have a knack for quickly responding to trouble. You gain a +2 trait bonus on Initiative checks.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Warrior Poet",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Dwarf race (from Lands of the Linnorm Kings)",
+    "PFS_Legal":"",
+    "Description":"You were trained by the skalds, keepers of the oral tradition of Kalsgard. You gain a +1 trait bonus on Knowledge checks related to dwarves (dwarven history, dwarven construction, and so on) and a +1 trait bonus on Fortitude saves in any round in which you use a bardic performance ability.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Warsmith",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"You have an intuitive grasp of the weak points of metal and stone. You gain a +1 trait bonus to damage rolls against creatures and objects made primarily of clay, crystal, earth, metal, or stone. Knowledge (engineering) is a class skill for you.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Wasp Whisperer ",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Calistria",
+    "PFS_Legal":"",
+    "Description":"Your association with Calistria�۪s church has toughened your flesh against venom and blessed you with the ability to influence wasps and similar insectile vermin. You gain a +1 trait bonus on Fortitude saving throws against poison. You may make Diplomacy checks (or wild empathy checks if you are a druid or ranger) to improve a Hostile or Unfriendly insectile vermin�۪s attitude toward Indifferent.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Watchdog",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"As a member of the Shadow Lodge, you are trained to detect lies and doublespeak. You gain a +1 trait bonus on Sense Motive skill checks, and Sense Motive becomes a class skill for you.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Watching Taldor",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Qadira",
+    "PFS_Legal":"",
+    "Description":"You have spent all of your adult life with eyes turned northward, waiting for the Taldan weaklings to give you an excuse to fight, ready to act at a moment�۪s notice. You gain a +1 trait bonus to Initiative checks, and if you are able to act during the surprise round of an encounter, you can draw a weapon (but not a potion or magic item) as a free action during that round.",
+    "Source":"PCo:QttE",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Wealthy Dabbler ",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Taldor",
+    "PFS_Legal":"",
+    "Description":"You study magic at a social club, wowing your friends with your recent discoveries and showing off your expertise in the simplest of magical exploits. Select two non-harmful arcane cantrips. You can cast these two cantrips once per day each (caster level 1st). If you have levels in a class that can cast these cantrips, your caster level for these cantrips is equal to that class level.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Weapon Style",
+    "Type":"Faction",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You  gain  proficiency  in  one  weapon normally used by monks, such as kama, nunchaku, sai, or shuriken.",
+    "Source":"PCo:GtPSOP",
+    "Version":""
+  },
+  {
+    "Name":"Well-Informed ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Halfling race (from Taldor)",
+    "PFS_Legal":"",
+    "Description":"You make it a point to know everyone and to be connected to everything around you. You frequent the best taverns, attend all of the right events, and graciously help anyone who needs it. Because of this, you are one of the more knowledgeable people in your home town. You gain a +1 trait bonus to Diplomacy checks and Knowledge (local) checks (when attempting to gather Information). One of these skills (your choice) is always a class skill for you.",
+    "Source":"PCo:TEoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Westcrown Firebrand ",
+    "Type":"Campaign",
+    "Category":"",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"There�۪s something very wrong with the world. Spouses were not meant to huddle at their windows hoping and fearing day after day that their loved ones returned from work safely. Parents were not meant to hush their children when questioned about what happened to their neighbors. Citizens were not meant to avert their eyes and hurry by as guardsmen beat old friends in the street. The people of Westcrown have suffered long enough! It�۪s time for a change. But how? You�۪ve heard rumors of bands of free-thinking individuals meeting after the citywide curfew. Perhaps they might share your ideals? You are quick to react to opportunity, both physically and mentally, and know that it is with sudden and swift action that many conflicts are best resolved. You gain a +1 trait bonus on Initiative checks, and if you act in a surprise round, you gain a +1 trait bonus on all attack rolls.",
+    "Source":"PAP:CoTPG",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Wharf Rat",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"Ostenso",
+    "PFS_Legal":"",
+    "Description":"You may never have been on a boat larger than a garbage scow, but you̢����ve been helping them dock all your life. You gain a +2 trait bonus on skill checks involving climbing and rope use, and a +4 trait bonus on Appraise checks to determine the value of large quantities of bulk goods without opening their containers.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Whisper Woods Hunter",
+    "Type":"Regional",
+    "Category":"",
+    "Prerequisite":"From Whisper Woods",
+    "PFS_Legal":"",
+    "Description":"Your family prepared you for a life of evading or destroying fiendish creatures. You gain a +2 trait bonus on Survival checks to track evil outsiders and a +2 trait bonus on initiative checks when you know your opponent is an evil outsider.",
+    "Source":"PCo:CEoD",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"Wisdom in the Flesh",
+    "Type":"Religion",
+    "Category":"",
+    "Prerequisite":"Follower of Irori",
+    "PFS_Legal":"",
+    "Description":"Your meditation on the nature of strength and speed allows you to focus your thoughts to achieve things your body might not be able to do on its own. Select any Strength, Constitution, or Dexterity-based skill. You make checks with that skill using your Wisdom modifier instead of its normal ability score. That skill is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Without a Past",
+    "Type":"",
+    "Category":"Social",
+    "Prerequisite":"",
+    "PFS_Legal":"",
+    "Description":"You earn +1 trait bonus to Bluff and Linguistics when used to forge documents, and choose one as a class skill. ",
+    "Source":"Wayfinder",
+    "Version":"PFRPG"
+  },
+  {
+    "Name":"World Traveler",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Human race (from Varisia)",
+    "PFS_Legal":"",
+    "Description":"Your family has taken the love of travel to an extreme, roaming the world extensively. You�۪ve seen dozens of cultures and have learned to appreciate the diversity of what the world has to offer. Select one of the following skills: Diplomacy, Knowledge (local), or Sense Motive. You gain a +1 trait bonus to that skill, and it is always a class skill for you.",
+    "Source":"PCo:LoFPG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Youthful Mischief ",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Elf",
+    "PFS_Legal":"",
+    "Description":"Though you gave up the life of a padfoot, scout, or minstrel decades before, you still know how to roll with the punches when things turn sour. You gain a +1 trait bonus on Reflex saves.",
+    "Source":"PCo:EoG",
+    "Version":"3.5e"
+  },
+  {
+    "Name":"Zealot",
+    "Type":"Race",
+    "Category":"Gnome",
+    "Prerequisite":"You must match the alignment of your chosen deity exactly.",
+    "PFS_Legal":"Yes",
+    "Description":"You aren�۪t just faithful to the worship of your patron deity���you are obsessively loyal to all of the faith�۪s tenets and guidelines. Your devotion is an anchor that keeps you from drifting away into the throes of the Bleaching, and you cling to it like the life raft it is. You gain a +1 trait bonus on Knowledge (religion) checks, and that skill is a class skill for you. As long as you remain completely faithful to the tenets of your faith (as determined by the GM), you never suffer from the Bleaching.",
+    "Source":"PCo:GoG",
+    "Version":""
+  },
+  {
+    "Name":"Zest for Battle",
+    "Type":"Race",
+    "Category":"",
+    "Prerequisite":"Dwarf race",
+    "PFS_Legal":"",
+    "Description":"Your greatest joy is being in the thick of battle, and smiting your enemies for a righteous or even dastardly cause. Whenever you have a morale bonus to weapon attack rolls, you also receive a +1 trait bonus on weapon damage rolls.",
+    "Source":"PCo:DoG",
+    "Version":"PFRPG"
+  }
+]
