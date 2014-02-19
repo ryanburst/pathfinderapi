@@ -63,7 +63,7 @@ class FeatTransformer extends TransformerAbstract
        *   description="The source material in which this information can be found."
        * )
        */
-      'source'                => $spell->source
+      'source'                => $feat->source
     );
   }
 }

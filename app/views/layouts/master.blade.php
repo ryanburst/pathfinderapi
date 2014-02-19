@@ -22,8 +22,8 @@
       <h1>Pathfinder API</h1>
       <p class="lead">Bend data to your will</p>
       <p class="call-to">
-        <a class="btn btn-info btn-lg btn-get-started" role="button">Get Started</a>
-        <a class="btn btn-info btn-lg" role="button">Documentation</a>
+        <a href="/" class="btn btn-info btn-lg btn-get-started" role="button">Get Started</a>
+        <a href="/docs" class="btn btn-info btn-lg" role="button">Documentation</a>
       </p>
     </div>
   </div><!-- /pa-masthead -->
