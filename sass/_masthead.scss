@@ -3,19 +3,97 @@
 // --------------------------------------------------
 .pa-masthead {
   @include gradient-vertical-with-background('../images/bg-map.png',$brand-dark-green,lighten($brand-dark-green,10%));
+  @include box-shadow(inset 0 25px 20px -20px rgba(0, 0, 0, 0.5),inset 0 -25px 20px -20px rgba(0, 0, 0, 0.5));
   background-size: cover;
   margin-bottom: 0;
-  text-transform: uppercase;
-  text-align: center;
+  padding: 0;
   color: #FFF;
-  h1 {
+  overflow: hidden;
+  .container {
+    padding: 0;
+  }
+  h2 {
     font-weight: normal;
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .lead {
+    font-size: 1em;
+  }
+  .pa-masthead-copy {
+    position: relative;
+    z-index:2;
+    max-width: 500px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .pa-masthead-content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .call-to {
+    text-align: center;
   }
 }
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: $screen-sm-min) {
   .pa-masthead {
-    padding: 120px 30px;
+    .pa-masthead-wrapper {
+      background: transparent url(../images/characters.png) no-repeat 110% 0px;
+      &.character-2 {
+        background-position-y: -500px;
+      }
+      &.character-3 {
+        background-position-y: -1025px;
+      }
+      &.character-4 {
+        background-position-y: -1550px;
+      }
+      &.character-5 {
+        background-position-y: -2050px;
+      }
+    }
+    h2 {
+      font-size: 4em;
+      text-align: left;
+    }
+    .skew-box {
+      position: absolute;
+      top: 0;
+      left: -2%;
+      height: 100%;
+      width: 105%;
+      z-index: 1;
+      background-color: #222;
+      @include opacity(0.8);
+      @include skew(-9deg, 0deg);
+    }
+    .pa-masthead-copy {
+      max-width: 100%;
+      margin: 0;
+    }
+    .call-to {
+      text-align: right;
+      margin-right: 15px;
+    }
+  }
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+  .pa-masthead {
+    .pa-masthead-wrapper {
+      background-position-x: 90%;
+    }
+  }
+}
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+  .pa-masthead {
+    .wrapper {
+      background-position-x: 80%;
+    }
   }
 }

@@ -1,0 +1,44 @@
+.home {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  h2 {
+    a {
+      color: inherit;
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
+  p {
+    @include clearfix();
+  }
+  .lead {
+    &:after {
+
+    }
+  }
+  .promo {
+    .glyphicon {
+      font-size: 3em;
+    }
+  }
+  .next {
+    margin-top: 25px;
+    .glyphicon {
+      font-size: 0.7em;
+    }
+  }
+  .next-list {
+    .glyphicon {
+      font-size: 0.6em;
+      color: $brand-info;
+    }
+  }
+
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+  .home {
+    padding-top: 40px;
+  }
+}

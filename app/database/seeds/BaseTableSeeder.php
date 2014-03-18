@@ -34,11 +34,6 @@ class BaseTableSeeder extends Seeder {
     return app_path() . '/database/source/json/' . $this->file;
   }
 
-  protected function create_statement()
-  {
-    return FALSE;
-  }
-
   public function run()
   {
     if( $this->truncate_table )

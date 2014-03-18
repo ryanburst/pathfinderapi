@@ -1,8 +1,9 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- use Google CDN for jQuery to hopefully get a cached copy -->
 <script src="{{ asset('assets/js/vendor/bootstrap/transition.js') }}"></script>
 <script src="{{ asset('assets/js/vendor/bootstrap/collapse.js') }}"></script>
+<script src="{{ asset('assets/js/vendor/bootstrap/dropdown.js') }}"></script>
 <script src="{{ asset('assets/js/app.js') }}"></script>
-<?php if( Request::is('docs')) : ?>
+<?php if( Request::is('endpoints')) : ?>
 <script type="text/javascript" src="{{ asset('assets/js/vendor/swagger/shred.bundle.js') }}"></script>
 <script src="{{ asset('assets/js/vendor/swagger/jquery-1.8.0.min.js') }}"></script>
 <script src="{{ asset('assets/js/vendor/swagger/jquery.slideto.min.js') }}"></script>

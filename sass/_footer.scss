@@ -1,0 +1,19 @@
+footer.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+  background-color: $brand-brown;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  a {
+    font-weight: bold;
+    color: $brand-gray;
+    &:hover {
+      color: darken($brand-gray, 15%);
+    }
+  }
+  .copyright {
+    text-transform: uppercase;
+  }
+}

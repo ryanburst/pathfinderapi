@@ -6,6 +6,6 @@ class TraitTableSeeder extends BaseTableSeeder {
   {
     $this->table_name = 'traits';
     $this->file = 'traits.json';
-    $this->model = 'Trait';
+    $this->model = 'CharacterTrait';
   }
 }

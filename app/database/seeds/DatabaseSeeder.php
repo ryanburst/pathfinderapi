@@ -9,7 +9,8 @@ class DatabaseSeeder extends Seeder {
    */
   public function run()
   {
-    if (App::environment() === 'production') {
+    if (App::environment() === 'production')
+    {
       exit('You almost just nuked production and seeded it with crap data. Dummy.');
     }
 
@@ -21,6 +22,7 @@ class DatabaseSeeder extends Seeder {
     $this->call('MonsterTableSeeder');
     $this->call('NPCTableSeeder');
     $this->call('TraitTableSeeder');
+    $this->call('UsersTableSeeder');
   }
 
 }
