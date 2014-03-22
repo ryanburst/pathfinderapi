@@ -2,7 +2,7 @@
 @section('content')
   <div class="container home">
     <p class="lead text-center">Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus.</p>
-    <div class="divider arrow-down"></div>
+    <div class="pa-divider arrow-down"></div>
     <div class="row promo">
       <div class="col-sm-4">
         <h2><a href="/get-started">Easy Quick Start</a></h2>
@@ -11,12 +11,12 @@
             <span class="glyphicon glyphicon-ok-sign"></span>
           </div>
           <div class="col-xs-10 col-sm-9 col-md-10">
-            Get started in seconds. Just create an account, grab <a href="/account">your key</a>, and head over to the <a href="/docs">test suite</a> to make some calls.
+            Get started in seconds. Just create an account, grab <a href="/account">your key</a>, and head over to the <a href="/endpoints">test suite</a> to make some calls.
           </div>
         </div>
       </div>
       <div class="col-sm-4">
-        <h2><a href="/docs">Interactive Test Suite</a></h2>
+        <h2><a href="/endpoints">Interactive Test Suite</a></h2>
         <div class="row">
           <div class="col-xs-2 col-sm-3 col-md-2 text-center">
             <span class="glyphicon glyphicon-list"></span>
@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class="col-sm-4">
-        <h2><a href="/authentication">Easy Authentication</a></h2>
+        <h2><a href="/authorization">Easy Authentication</a></h2>
         <div class="row">
           <div class="col-xs-2 col-sm-3 col-md-2 text-center">
             <span class="glyphicon glyphicon-lock"></span>
@@ -38,7 +38,7 @@
         </div>
       </div>
     </div>
-    <div class="divider arrow-down"></div>
+    <div class="pa-divider arrow-down"></div>
     <div class="row next">
       <div class="col-sm-12">
         <h2 class="secondary-header">What's Next?</h2>

@@ -35,7 +35,14 @@ App::after(function($request, $response)
 
 Route::filter('auth', function()
 {
-	if (Auth::guest()) return Redirect::guest('login')->with('_redirect','/'.Request::path());
+	if (Auth::guest()) return Redirect::guest('sessions.create');
+});
+
+//User IS logged in, but they're trying to go to something like the login
+//page or the register page. Direct them to their account instead.
+Route::filter('auth.anti', function()
+{
+  if (Auth::check()) return Redirect::route('sessions.show');
 });
 
 

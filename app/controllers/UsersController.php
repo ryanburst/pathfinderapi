@@ -1,12 +1,39 @@
 <?php
 
+use Burst\Services\UserCreatorService;
+use Burst\Services\UserUpdateService;
+use Burst\Validators\ValidationException;
+
+/**
+ * Class UsersController
+ */
 class UsersController extends BaseController {
 
-  protected $user;
+	/**
+	 * @var User
+	 */
+	protected $user;
 
-  public function __construct(User $user)
+	/**
+	 * @var Burst\Services\UserCreatorService
+	 */
+	protected $userCreator;
+
+	/**
+	 * @var Burst\Services\UserUpdateService
+	 */
+	protected $userUpdater;
+
+	/**
+	 * @param User $user
+	 * @param UserCreatorService $userCreator
+	 * @param UserUpdateService $userUpdater
+	 */
+	public function __construct(User $user, UserCreatorService $userCreator, UserUpdateService $userUpdater)
   {
     $this->user = $user;
+    $this->userCreator = $userCreator;
+    $this->userUpdater = $userUpdater;
   }
 
   /**
@@ -17,7 +44,7 @@ class UsersController extends BaseController {
    */
   public function create()
   {
-    if( Auth::check() ) return Redirect::route('sessions.account');
+    if( Auth::check() ) return Redirect::route('sessions.show');
     return View::make('users.create');
   }
 
@@ -33,22 +60,37 @@ class UsersController extends BaseController {
    */
   public function store()
   {
-    if( ! $this->user->validateForNewUser(Input::all()) )
+    try
     {
-      return Redirect::back()->withInput()->withErrors($this->user->errors);
+      $this->user = $this->userCreator->make(Input::all());
+    }
+    catch(ValidationException $e)
+    {
+      return Redirect::back()->withInput()->withErrors($e->getErrors());
     }
 
-    $this->user->fill(Input::all());
-    $this->user->save();
 
-    //Log them in
-    //This should be handled by a SessionsController which has it's own create/store/destroy
-    //for sessions...so do we redirect there? Or force a login here? Or redirect them to login
-    //page with a flash message telling them their account was created, now login?
     Auth::login($this->user);
 
     //Redirect to account page
-    return Redirect::route('account');
+    return Redirect::route('sessions.show');
+  }
+
+	/**
+	 * @return mixed
+	 */
+	public function update()
+  {
+    try
+    {
+      $this->userUpdater->update(Auth::user()->id,Input::all());
+    }
+    catch(ValidationException $e)
+    {
+      return Redirect::back()->withInput()->withErrors($e->getErrors());
+    }
+
+    return Redirect::route('sessions.show')->with('flash_message_success','Account updated!');
   }
 
 }

@@ -30,6 +30,19 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
+	| Default API Referer
+	|--------------------------------------------------------------------------
+	|
+	| This is the default referer that gets added for every created user. This
+	| referer should be the base URL for the environment this app is hosted on.
+	| It is suggest that you use an environment variable here.
+	|
+	*/
+
+	'default_api_referer' => '*.mcdpartners.com',
+
+	/*
+	|--------------------------------------------------------------------------
 	| Application Timezone
 	|--------------------------------------------------------------------------
 	|

@@ -3,16 +3,12 @@ use Illuminate\Auth\UserInterface;
 use Illuminate\Auth\Reminders\RemindableInterface;
 
 class User extends Eloquent implements UserInterface, RemindableInterface {
-	protected $fillable = array('email','password');
+
+  protected $fillable = array('email','password');
 
   protected $hidden = array('password','private_key');
 
-	public static $rules = array(
-    'email' => 'required|email|unique:users',
-    'password' => 'required|alpha_num|min:7|confirmed'
-  );
-
-  public $errors;
+  protected $referers;
 
   /**
    * Get the unique identifier for the user.
@@ -93,20 +89,8 @@ class User extends Eloquent implements UserInterface, RemindableInterface {
     $this->attributes['private_key'] = str_random(48);
   }
 
-  /**
-   * Check if the current user object is valid using our static rule set
-   * @access public
-   * @return boolean
-   */
-  public function validateForNewUser( $data = array() )
+  public function referers()
   {
-    $validation = Validator::make($data,static::$rules);
-
-    if( $validation->passes() )
-      return true;
-
-    $this->errors = $validation->messages();
-
-    return false;
+    return $this->hasMany('ApiReferer');
   }
 }

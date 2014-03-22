@@ -11,6 +11,8 @@
 @import "mixins";
 @import "scaffolding";
 @import "navbar";
+@import "form";
+@import "code";
 @import "masthead";
 @import "footer";
 
@@ -61,7 +63,7 @@ a {
     @include opacity(0.5);
   }
 }
-.divider {
+.pa-divider {
   position: relative;
   width: 100%;
   margin: 35px auto;
@@ -114,9 +116,9 @@ a {
       @include skew(20deg, 0deg);
     }
   }
-  .divider {
+  .pa-divider {
     width: 600px;
-    &.divider-full {
+    &.pa-divider-full {
       width: 100%;
     }
   }

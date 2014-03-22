@@ -9,30 +9,33 @@ class SessionsController extends BaseController {
    */
   public function create()
   {
-    if( Auth::check() ) return Redirect::route('account');
+    if( Auth::check() ) return Redirect::route('sessions.show');
+
     return View::make('sessions.create');
   }
 
   /**
-   * Store a newly created resource in storage.
+   * Attempts to log someone in with given credentials and
+   * redirects them to their account page
    *
-   * @return Response
+   * @return Redirect
    */
   public function store()
   {
-    if( Auth::check() ) return Redirect::route('sessions.account');
-    if( Auth::attempt(Input::only('email','password')) )
+    if( Auth::check() ) return Redirect::route('sessions.show');
+
+    if( Auth::attempt(Input::only('email','password'),Input::get('remember')) )
     {
-      return Redirect::route('account');
+      return Redirect::route('sessions.show');
     }
+
     return Redirect::back()->withInput()->with('flash_message','Invalid email/password combination.');
   }
 
   /**
-   * Display the specified resource.
+   * Shows information on the current logged in user
    *
-   * @param  int  $id
-   * @return Response
+   * @return View
    */
   public function show()
   {
@@ -40,10 +43,9 @@ class SessionsController extends BaseController {
   }
 
   /**
-   * Remove the specified resource from storage.
+   * Destroys the current session
    *
-   * @param  int  $id
-   * @return Response
+   * @return Redirect
    */
   public function destroy()
   {

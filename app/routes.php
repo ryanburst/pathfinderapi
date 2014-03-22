@@ -42,12 +42,14 @@ Route::get('/help', function()
 {
   return View::make('help');
 });
-Route::get('/login', array('as'=>'login','uses'=>'SessionsController@create'));
-Route::get('/logout', array('as'=>'logout','uses'=>'SessionsController@destroy'));
-Route::get('/account', array('before'=>'auth','as'=>'account','uses'=>'SessionsController@show'));
-Route::resource('sessions', 'SessionsController',array('only'=>array('create','store','show','destroy')));
-Route::get('/register', array('as'=>'users.register','uses'=>'UsersController@create'));
-Route::resource('users', 'UsersController',array('only'=>array('create','store')));
+Route::get('/login', array('before'=>'auth.anti','as'=>'sessions.create','uses'=>'SessionsController@create'));
+Route::post('/login', array('before'=>'auth.anti','as'=>'sessions.store','uses'=>'SessionsController@store'));
+Route::get('/logout', array('as'=>'sessions.destroy','uses'=>'SessionsController@destroy'));
+Route::get('/account', array('before'=>'auth','as'=>'sessions.show','uses'=>'SessionsController@show'));
+Route::patch('/account', array('as'=>'users.update','uses'=>'UsersController@update'));
+Route::get('/register', array('as'=>'users.create','uses'=>'UsersController@create'));
+Route::post('/register', array('as'=>'users.store','uses'=>'UsersController@store'));
+
 
 /**
  * Model Events

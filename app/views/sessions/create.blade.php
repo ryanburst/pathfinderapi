@@ -16,8 +16,15 @@
             {{ Form::label('password', 'Password') }}
             {{ Form::password('password',array('class'=>'form-control')) }}
           </div>
-          {{ Form::submit('Login',array('class'=>'btn btn-primary')) }}
-          <a href="/register">Create an account</a>
+          <div class="checkbox">
+            {{ Form::checkbox('remember',1,null,array('id'=>'remember')) }}
+            {{ Form::label('remember', 'Remember Me') }}
+          </div>
+          <div class="form-group">
+            {{ Form::submit('Login',array('class'=>'btn btn-primary')) }}
+            <a href="/register">Create an account</a>
+          </div>
+
         {{ Form::token() }}
         {{ Form::close() }}
       </div>

@@ -1,0 +1,23 @@
+@import "compass/css3/hyphenation";
+@import "compass/typography/text/force-wrap";
+
+code {
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  &.code-block {
+    display: block;
+    @include force-wrap();
+  }
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+  code {
+    &.code-block {
+      &.half {
+        width: 50%;
+      }
+    }
+  }
+}

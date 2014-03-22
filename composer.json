@@ -40,7 +40,10 @@
     ],
     "files": [
       "app/helpers.php"
-    ]
+    ],
+    "psr-0": {
+      "Burst" : "app/"
+    }
   },
   "scripts": {
     "post-install-cmd": [
